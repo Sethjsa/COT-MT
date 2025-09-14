@@ -1,0 +1,767 @@
+[
+    {
+        "src": "\"It is not my role to estimate if the beer sector should have this or that target, as it would depend on the intrinsic characteristics of their own sector,\" Sánchez Recarte said. \"In the same way, brewers should mind their own business and focus on their own responsibilities.\"",
+        "tgt": "\"לא מתפקידי להעריך אם צריך להציב למגזר הבירה יעד כזה או אחר, כי זה תלוי במאפיינים הייחודיים של המגזר שלהם\", אמר סאנצ'ז רקארטה. \"באותה מידה, יצרני הבירה צריכים להתעסק בעיניינים שלהם ולהתמקד בתחומי האחריות שלהם\".",
+        "score1": 0.8849,
+        "score2": 0.8889,
+        "sent1": "\"זה לא התפקיד שלי להעריך אם למגזר הבירה צריכה להיות מטרה כזו או אחרת, מכיוון שזה יהיה תלוי במאפיינים המהותיים של המגזר שלהם,\" אמר סאנצ'ס רקרטה. \"באותו אופן, מבשלי בירה צריכים לדאוג לענייניהם ולהתמקד באחריות שלהם.\"\n",
+        "sent2": "\"זה לא התפקיד שלי להעריך אם למגזר הבירה צריך להיות יעד כזה או אחר, מכיוון שזה יהיה תלוי במאפיינים המהותיים של המגזר שלהם\", אמר סאנצ'ס רקרטה. \"באותו אופן, יצרני בירה צריכים לדאוג לענייניהם ולהתמקד באחריות שלהם.\"\n",
+        "analysis": "Okay, I understand. I'm ready to begin the pre-drafting research focusing on idiomatic expressions in the provided English text, with the goal of finding appropriate equivalents in Hebrew, or identifying alternative translation strategies if direct equivalents don't exist.\n\nHere's my analysis:\n\n*   **\"Mind their own business\"**: This is a common idiom. A literal translation wouldn't make sense. I need to find the best idiomatic equivalent in Hebrew that conveys the meaning of not interfering in other people's affairs.\n"
+    },
+    {
+        "src": "\"Our position is clear,\" the trade association Brewers of Europe wrote to MEPs and government negotiators (10 January). \"If targets and mandatory requirements in the PPWR apply to beer then there is a legal obligation that they apply to all alcoholic beverage categories.\"",
+        "tgt": "\"העמדה שלנו ברורה\", הודיעו ראשי ההתאחדות המקצועית של מבשלות הבירה באירופה לחברי הפרלמנט האירופי ולמנהלי המשא ומתן מטעם הממשלות (10 בינואר). \"אם היעדים והדרישות המחייבות ב-PPWR חלות על בירה, הן חייבות לחול, על פי החוק על כל הקטגוריות של משקאות אלכוהוליים\".",
+        "score1": 0.8971,
+        "score2": 0.8893,
+        "sent1": "\"העמדה שלנו ברורה,\" כתבה התאחדות יצרני הבירה של אירופה לחברי הפרלמנט האירופי ולמנהלי משא ומתן ממשלתיים (10 בינואר). \"אם יעדים ודרישות חובה ב-PPWR חלים על בירה, אז יש חובה משפטית שהם יחולו על כל קטגוריות המשקאות האלכוהוליים.\"\n",
+        "sent2": "\"העמדה שלנו ברורה,\" כתבה התאחדות יצרני הבירה של אירופה לחברי הפרלמנט האירופי ולמנהלי משא ומתן ממשלתיים (10 בינואר). \"אם יעדים ודרישות חובה ב-PPWR יחולו על בירה, אז קיימת חובה חוקית שהם יחולו על כל קטגוריות משקאות האלכוהול.\"\n",
+        "analysis": "Okay, I understand. Let's start the pre-drafting research specifically focusing on idiomatic expressions in the English text provided.\n\nThe text is:\n\n\"Our position is clear,\" the trade association Brewers of Europe wrote to MEPs and government negotiators (10 January). \"If targets and mandatory requirements in the PPWR apply to beer then there is a legal obligation that they apply to all alcoholic beverage categories.\"\n\n**Idiomatic Expressions:**\n\n*   **\"Our position is clear\"**: While seemingly straightforward, in a formal context like this, it's good to consider if a more nuanced or formal Hebrew equivalent exists to convey not just clarity, but also firmness and decisiveness.\n\nTherefore, a good plan of action could be to consider any of the above points when translating the text in later stages.\n"
+    },
+    {
+        "src": "\"Yeah, duh.\"",
+        "tgt": "\"כאילו, ברור\".",
+        "score1": 0.4506,
+        "score2": 0.4498,
+        "sent1": "Okay, based on the understanding that \"Yeah, duh\" is an idiomatic expression indicating agreement with a sense of obviousness (and often sarcasm/annoyance), here's a draft translation attempt focused on conveying that meaning in Hebrew:\n\n**Draft Translation:**\n\n\"נו, ברור.\" (Nu, Barur)\n",
+        "sent2": "כן, ברור.\n",
+        "analysis": "Okay, I'm ready. You've given me the context \"Yeah, duh.\" and asked me to begin with pre-drafting research focused on idiomatic expressions.\n\nAnalysis:\n\nThe phrase \"Yeah, duh\" is an idiomatic expression in English. It serves to express agreement with something while simultaneously implying the information is obvious or already known by the speaker and perhaps *should* be obvious to the listener as well. The tone is often sarcastic, dismissive, or condescending. A literal translation would miss the nuance and intent.\n"
+    },
+    {
+        "src": "#TeaganAir #PilotTraining #FlightSchool #Stalls #PA28 #Piper #Flying",
+        "tgt": "^_^",
+        "score1": 0.3666,
+        "score2": 0.3736,
+        "sent1": "Okay, based on the pre-drafting analysis (which found no idiomatic expressions and suggested transliteration/rewriting of hashtags), here's a draft translation of the provided text:\n\n#TeaganAir #הדרכתטייס #ביתספרלטייס #הזדקרויות #PA28 #Piper #טיסה\n\nHere's a breakdown of the choices:\n\n*   `#TeaganAir`: Remains the same as it is a proper noun (company name).\n*   `#PilotTraining`: Translated to `#הדרכתטייס` (pronounced *Hadrakhat Tayas*), meaning \"Pilot Training\"\n*   `#FlightSchool`: Translated to `#ביתספרלטייס` (pronounced *Beit Sefer LeTayas*), meaning \"Flight School\".\n*   `#Stalls`: Translated to `#הזדקרויות` (pronounced *Hizdakruyot*), meaning \"Stalls\" (aerodynamic stalls).\n*   `#PA28`: Remains the same as it is a model number.\n*   `#Piper`: Remains the same as it is a brand name.\n*   `#Flying`: Translated to `#טיסה` (pronounced *Teesa*), meaning \"Flying\" or \"Flight\".\n\nThis draft aims for accuracy and directness, suitable for adaptation to various contexts related to flight training.\n",
+        "sent2": "#TeaganAir #הדרכתטייס #ביתספרלטייס #הזדקרויות #PA28 #פייפר #טיסה\n",
+        "analysis": "Okay, I understand. My task is to perform pre-drafting research on the context provided (\"#TeaganAir #PilotTraining #FlightSchool #Stalls #PA28 #Piper #Flying\") to identify potential translation challenges, specifically focusing on idiomatic expressions that might not have direct equivalents in Hebrew.\n\nLet's analyze:\n\nLooking at the provided context, there aren't any immediately obvious *idiomatic expressions* in the common sense.  It's mostly a list of keywords and hashtags related to flight training.  Therefore, idiomatic expressions are not relevant in this context.\n\nMy assessment is that there are no idiomatic expressions, and the hashtags can be transliterated or re-written in a way that is relevant to the Hebrew speaking audience.\n\nI await further instructions.\n"
+    },
+    {
+        "src": "@user11 with the loss of shared experience due to an over saturation of content and the ever increasing polarization of our world, it’s so easy for bad actors to just ruin any chance of us getting together and enjoying things. Sorry, should have clarified haha",
+        "tgt": "@user11 בגלל שאין יותר חוויה משותפת, כתוצאה מהרוויה מוגזמת של התכנים והקיטוב הגדל בעולם שלנו, קל מאוד לגורמים שליליים להרוס את הסיכוי שלנו להתאסף יחד וליהנות מדברים. מצטער, הרגשתי צורך להבהיר אהאה",
+        "score1": 0.7901,
+        "score2": 0.7812,
+        "sent1": "@user11 עם אובדן החוויה המשותפת עקב הצפה של תוכן והקיטוב הגובר בעולם שלנו, כל כך קל לגורמים מזיקים פשוט להרוס כל סיכוי שנצליח להתכנס וליהנות יחד. מצטער, הייתי צריך להבהיר חח\n",
+        "sent2": "עקב אובדן חוויה משותפת הנובעת מרוויה של תוכן והקיטוב הגובר בעולמנו, כל כך קל לשחקנים רעים פשוט להרוס כל סיכוי שנתאחד ונהנה מדברים. מצטער, הייתי צריך להבהיר חחח\n",
+        "analysis": "Okay, I understand the task. I will be translating the English text, \"with the loss of shared experience due to an over saturation of content and the ever increasing polarization of our world, it’s so easy for bad actors to just ruin any chance of us getting together and enjoying things. Sorry, should have clarified haha\" into Hebrew, and the initial step is pre-drafting research focusing on idiomatic expressions.\n\nLet's analyze the text for potential idiomatic expressions that need careful consideration for translation into Hebrew:\n\n*   **\"bad actors\"**: This isn't necessarily a strictly fixed idiom, but it carries a specific connotation of malicious or disruptive individuals, and a direct translation of \"bad actors\" might not be the most accurate or natural way to express this concept in Hebrew. We need to find a Hebrew equivalent for people acting in bad faith, maliciously.\n\n*   **\"ruin any chance of us getting together and enjoying things\"**: This phrase isn't precisely idiomatic, but the nuance of ruining the *chance* of something enjoyable happening needs consideration. We want to capture the feeling of spoiling a potential for positive connection and shared enjoyment.\n\n*   **\"should have clarified haha\"**: The \"haha\" is a tonal indicator that needs to be reflected in the Hebrew translation, likely through word choice or phrasing that conveys a sense of lightness or amusement.\n\nNow I have a clearer plan to tackle these specific parts of this context when translating to Hebrew.\n"
+    },
+    {
+        "src": "@user13 Being in the world is being in relationships",
+        "tgt": "@user13 המשמעות של לחיות בעולם היא להיות ביחסים",
+        "score1": 0.8424,
+        "score2": 0.8424,
+        "sent1": "@user13 להיות בעולם זה להיות במערכות יחסים\n",
+        "sent2": "@user13 להיות בעולם זה להיות במערכות יחסים\n",
+        "analysis": "Okay, I understand. The goal is to analyze the English text \"Being in the world is being in relationships\" in the context of \"@user13 Being in the world is being in relationships\" and prepare for translation into Hebrew by specifically focusing on identifying and researching any idiomatic expressions that might pose a challenge. I will look for phrases where a literal translation wouldn't capture the intended meaning in Hebrew. Let's begin.\n"
+    },
+    {
+        "src": "@user15 @user14 I feel like \"shared experience\" is a defining factor of entertainment. Either sharing among an audience or an entertainer sharing with an audience. When you make your own entertainment, just for you, you're just playing with yourself",
+        "tgt": "@user15 @user14 נראה לי ש\"חוויה משותפת\" היא חלק מההגדרה של בידור. שיתוף עם מאזינים או בדרן שמשתף עם קהל. כאשר אתה יוצר את הבידור של עצמך, רק עבור עצמך, אתה משחק עם עצמך",
+        "score1": 0.8464,
+        "score2": 0.8551,
+        "sent1": "@user15 @user14 אני מרגיש ש\"חוויה משותפת\" היא גורם מכריע בבידור. או שיתוף בין קהל, או שאמן משתף עם קהל. כשאתה יוצר בידור בשביל עצמך בלבד, אתה פשוט מתעסק עם עצמך.\n",
+        "sent2": "@user15 @user14 אני מרגיש ש\"חוויה משותפת\" היא גורם מכריע בבידור. או שיתוף בין קהל, או שאמן משתף עם קהל. כשאתה יוצר בידור לעצמך בלבד, אתה סתם משחק עם עצמך.\n",
+        "analysis": "Okay, I understand. I'm ready to begin the pre-drafting research. My goal is to identify any idiomatic expressions in the English text that will require special attention during translation into Hebrew.\n\nHere's what I've identified:\n\n*   **\"Playing with yourself\"**: This is an idiomatic expression. In this context, it implies engaging in a solitary activity solely for one's own pleasure, often with a connotation of being somewhat unproductive or self-indulgent. The direct translation into Hebrew would sound odd and not convey the intended meaning. It'll be crucial to find a Hebrew equivalent that captures the nuance of doing something purely for personal gratification, perhaps something that implies a lack of external interaction or shared enjoyment.\n"
+    },
+    {
+        "src": "@user27 hehe ty user26",
+        "tgt": "@user27 אהאה ty user26",
+        "score1": 0.4842,
+        "score2": 0.4776,
+        "sent1": "Okay, based on the pre-drafting analysis, here's a draft translation of \"@user27 hehe ty user26\" into Hebrew:\n\n@user27 חה חה תודה user26\n",
+        "sent2": "@user27 חח תודה @user26\n",
+        "analysis": "Okay, I understand. The context is a casual online interaction: \"@user27 hehe ty user26\". My task is to translate this into Hebrew, paying special attention to idiomatic expressions or slang that might require more than a direct word-for-word translation. I need to identify potential translation challenges and create a plan. Let me start with the idiomatic expressions:\n\n*   **\"hehe\"**: This is an interjection representing a soft, often slightly mischievous laugh. It's not a standard word, but rather a vocalization.\n*   **\"ty\"**: This is an abbreviation of \"thank you,\" a very common and universally understood expression of gratitude.\n\nNow, I'm ready to formulate a translation plan that addresses these points.\n"
+    },
+    {
+        "src": "@user33 wow!",
+        "tgt": "@user33 וואו!",
+        "score1": 0.9937,
+        "score2": 0.9937,
+        "sent1": "@user33 וואו!\n",
+        "sent2": "@user33 וואו!\n",
+        "analysis": "Okay, I understand. The text is \"@user33 wow!\" and the context is a social media interaction. My task is to research potential translation challenges before attempting to translate it into Hebrew. My focus is on identifying any idiomatic expressions that might require more than a literal translation.\n\nHere's my research regarding the given context:\n\n*   **\"wow!\"** While seemingly simple, \"wow\" is an interjection expressing surprise, amazement, or admiration. Direct translations might not always capture the exact nuance and naturalness needed in Hebrew. We need to consider some options.\n\nI'm ready for the next step when you are.\n"
+    },
+    {
+        "src": "A final push for female equality",
+        "tgt": "דרך מהירה יותר לשוויון מגדרי",
+        "score1": 0.7769,
+        "score2": 0.7808,
+        "sent1": "דחיפה אחרונה לשוויון נשי\n",
+        "sent2": "דחיפה אחרונה לשוויון נשים\n",
+        "analysis": "Okay, I understand. I'm ready to begin. I'll focus on identifying potential translation challenges, specifically idiomatic expressions, within the context \"A final push for female equality\" and plan for how to address them in Hebrew. Let me know when you're ready to proceed with the analysis.\n"
+    },
+    {
+        "src": "A vocal anarchist who's shit about hiding his identity giving his DNA to a biotechnology company for a dubiouse printout of my \"Ancestry.\" What could go wrong?",
+        "tgt": "אנרכיסט רעשן שמסתיר את זהותו מוסר את ה-DNA שלו לחברת ביוטכנולוגיה להדפסה מפוקפקת של \"הייחוס\" שלי. מה כבר יכול להשתבש?",
+        "score1": 0.8243,
+        "score2": 0.8232,
+        "sent1": "אנרכיסט קולני שלא שם זין על הסתרת הזהות שלו נותן את ה-DNA שלו לחברת ביוטכנולוגיה בשביל הדפסה מפוקפקת של ה\"מוצא\" שלי. מה כבר יכול להשתבש?\n",
+        "sent2": "אנרכיסט קולני שלא ממש מסתיר את הזהות שלו נותן את הדנ\"א שלו לחברת ביוטכנולוגיה בשביל הדפסה מפוקפקת של ה\"מוצא\" שלי. מה כבר יכול להשתבש?\n",
+        "analysis": "Okay, I understand the context: a vocal anarchist, not concerned with hiding their identity, is giving DNA to a biotechnology company for an ancestry report, and the speaker is questioning the potential negative consequences.\n\nHere's my research focused on idiomatic expressions within the context text:\n\n*   **\"What could go wrong?\"**: This is a rhetorical question, an idiomatic expression itself, implying that *many* things could go wrong. Direct translation might miss the nuance of sarcasm and implied threat.\n"
+    },
+    {
+        "src": "According to Amazon, I bought the panel in 2021 and It should output 12V at a max of 1.2A.",
+        "tgt": "לפי אמזון, קניתי את הפאנל ב-2021 והוא אמור להפיק 12 וולט בעומס מרבי של 1.2 אמפר.",
+        "score1": 0.8689,
+        "score2": 0.8732,
+        "sent1": "לפי אמזון, קניתי את הפאנל בשנת 2021 והוא אמור להוציא 12V במקסימום של 1.2A.\n",
+        "sent2": "לפי אמזון, קניתי את הפאנל ב-2021 והוא אמור לספק 12V במקסימום של 1.2A.\n",
+        "analysis": "Okay, I understand. My task is to translate the English sentence \"According to Amazon, I bought the panel in 2021 and It should output 12V at a max of 1.2A\" into Hebrew, but first, to do some pre-drafting research.\n\nSpecifically, I need to identify any idiomatic expressions in the sentence that wouldn't translate directly into Hebrew. Let's analyze the sentence:\n\n*   **\"According to Amazon\"**: This phrase is fairly straightforward and doesn't contain any deeply embedded idioms. We can expect a more or less direct translation.\n*   **\"I bought the panel in 2021\"**: This is a simple factual statement. No idioms here.\n*   **\"It should output 12V at a max of 1.2A\"**: Again, this is a technical specification and is not idiomatic. The word \"output\" is a technical term, not an idiom. \"At a max of\" can probably be translated fairly directly as well.\n\n**Conclusion:**\n\nThere are no significant idiomatic expressions in the given sentence that require special attention during translation. The translation should be relatively direct, focusing on accurate rendering of the technical terms.\n"
+    },
+    {
+        "src": "After 4 months of playing this game.",
+        "tgt": "לאחר 4 חודשים של משחק במשחק הזה.",
+        "score1": 0.9611,
+        "score2": 0.9611,
+        "sent1": "אחרי 4 חודשים של משחק במשחק הזה.\n",
+        "sent2": "אחרי 4 חודשים של משחק במשחק הזה.\n",
+        "analysis": "Okay, I understand. My task is to translate \"After 4 months of playing this game\" into Hebrew, but first, I need to do pre-drafting research, specifically focusing on identifying any idiomatic expressions that might pose a challenge in direct translation.\n\nIn this case, the phrase \"After 4 months of playing this game\" is fairly straightforward and doesn't contain any particularly complex idioms. However, the nuances of expressing duration and the activity of \"playing a game\" in Hebrew need to be considered.\n\nLet's proceed to the next stage when you are ready.\n"
+    },
+    {
+        "src": "After that a couple of site visits on Saturdays with a client in Swansea.",
+        "tgt": "אחרי ביקור במספר אתרים בימי שבת עם לקוח בסוונסי",
+        "score1": 0.8243,
+        "score2": 0.8193,
+        "sent1": "אחרי זה כמה ביקורי שטח בשבתות עם לקוח בסוונסי.\n\n(Acharei ze kama bikurei sadeh beShabbatot im lakoach beSwansea.)\n",
+        "sent2": "אחרי זה כמה ביקורים באתרי בנייה בימי שבת עם לקוח בסוונסי.\n",
+        "analysis": "Okay, I understand. The context is: \"After that a couple of site visits on Saturdays with a client in Swansea.\"\n\nMy task is to identify any idiomatic expressions in that short context that might pose a challenge when translating into Hebrew.  I will focus on phrases that don't translate literally and require a different construction in Hebrew to convey the same meaning.\n\nHere's what I've identified:\n\n*   **\"A couple of\"**: While not strictly an idiom, the phrase \"a couple of\" is often used to mean \"two or three\" rather than exactly two. This nuance needs to be considered in the Hebrew translation. Hebrew has a direct equivalent for \"two\" (שניים - shnayim), but if the intention is \"approximately two\", a different phrasing might be better.\n"
+    },
+    {
+        "src": "And she is very adept with the English language.",
+        "tgt": "והיא שולטת מצוין בשפה האנגלית.",
+        "score1": 0.9293,
+        "score2": 0.9293,
+        "sent1": "והיא מאוד מיומנת בשפה האנגלית.\n",
+        "sent2": "והיא מאוד מיומנת בשפה האנגלית.\n",
+        "analysis": "Okay, I understand. My role is to help translate the English phrase \"And she is very adept with the English language\" into Hebrew, focusing on potential translation challenges, particularly idiomatic expressions, within that context. I'm ready to start with the pre-drafting research. What specific aspect of \"And she is very adept with the English language\" should I focus on for idiomatic expressions that could be problematic for a direct translation into Hebrew?\n\nI'm looking for guidance on what kind of idiomatic expressions or nuances might exist in the English phrase that would not have a direct equivalent in Hebrew and require a more creative translation approach.\n"
+    },
+    {
+        "src": "As the EU debates rules to limit packaging waste, beer producers argue they are being unfairly discriminated against with exemptions for winemakers from reuse targets and deposit-return schemes, but one of Europe's wine industry association chiefs says brewers should \"mind their own business.\"",
+        "tgt": "בזמן שבאיחוד האירופי דנים בכללים להגבלת פסולת שמקורה באריזות, יצרני הבירה טוענים שזה לא הוגן שהם מופלים לרעה בשל הפטור שמקבלים היקבים מיעדי שימוש חוזר ומתוכניות להחזרי פיקדון. בתגובה, אחד מראשי התאחדות ענף היין באירופה טען שעל המבשלות \"להתעסק בעניינים שלהן\".",
+        "score1": 0.8683,
+        "score2": 0.8749,
+        "sent1": "בעוד שהאיחוד האירופי דן בחוקים להגבלת פסולת האריזות, יצרני הבירה טוענים שהם סובלים מאפליה בלתי הוגנת עם פטורים ליצרני היין מיעדי שימוש חוזר ותוכניות פיקדון-החזרה, אך אחד מבכירי איגוד תעשיית היין באירופה אומר שיצרני הבירה צריכים \"להתעסק בענייניהם\".\n",
+        "sent2": "בעוד שהאיחוד האירופי דן בחוקים להגבלת פסולת האריזות, יצרני בירה טוענים שהם סובלים מאפליה בלתי הוגנת עם פטורים ליצרני יין מיעדי שימוש חוזר ותוכניות פיקדון-החזרה, אך אחד מראשי איגוד תעשיית היין באירופה אומר שלמבשלות בירה \"כדאי להתעסק בענייניהן שלהן\".\n",
+        "analysis": "Okay, I understand. My task is to identify idiomatic expressions in the English text that will require special attention during translation into Hebrew. I will focus on finding phrases where a literal, word-for-word translation would not convey the intended meaning or would sound awkward in Hebrew.\n\nHere are the idiomatic expressions I've identified in the context:\n\n*   **\"Mind their own business\"**: This is a common idiom that means to not interfere in someone else's affairs. A direct translation might not capture the forcefulness intended. We need to find an equivalent Hebrew expression that conveys the same meaning of staying out of someone else's activities.\n"
+    },
+    {
+        "src": "Brewers of Europe shared with Euronews a brief legal analysis it sent to the European Commission last year, where it argues that wine and beer are competing products that are \"at least partially, substitutable with each other,\" and which argued that rules favouring one over the other would distort the market.",
+        "tgt": "ארגון מבשלות הבירה באירופה שיתף את Euronews בניתוח משפטי קצר ששלחו לנציבות האירופית בשנה שעברה, ובו הם טוענים שיין ובירה הם מוצרים מתחרים ש\"ניתן להחליפם זה בזה, לפחות באופן חלקי\", ושכללים שמיטיבים עם האחד על פני השני יעוותו את השוק.",
+        "score1": 0.8853,
+        "score2": 0.8855,
+        "sent1": "התאחדות מבשלי הבירה באירופה שיתפה עם יורוניוז ניתוח משפטי קצר ששלחה לנציבות האירופית בשנה שעברה, ובו היא טוענת כי יין ובירה הם מוצרים מתחרים אשר \"לפחות באופן חלקי, ניתנים להחלפה זה בזה,\" וטענה כי כללים המעדיפים אחד על פני השני יסלפו את השוק.\n",
+        "sent2": "איגוד מבשלי הבירה באירופה שיתף עם יורוניוז ניתוח משפטי לקוני שהוא שלח לנציבות האירופית בשנה שעברה, שבו הוא טוען כי יין ובירה הם מוצרים מתחרים אשר \"לפחות באופן חלקי, ניתנים להחלפה זה בזה,\" וטען כי כללים המעדיפים אחד על פני השני יעוותו את השוק.\n",
+        "analysis": "Okay, I'm ready to start the pre-drafting research. I will focus on identifying idiomatic expressions in the provided context that might pose translation challenges when translating into Hebrew.\n\nHere's what I've found:\n\n*   **\"favouring one over the other\"**: This phrase describes a preferential treatment of one product compared to another. While seemingly straightforward, directly translating this word-for-word might not capture the nuances of the situation in Hebrew. We need to consider a more natural and idiomatic way to express the concept of giving preference or advantage.\n\nI will keep an eye out for more potential challenges as we move forward. Let me know when you're ready for the next stage.\n"
+    },
+    {
+        "src": "But let's rewind a bit. \"What's actually in there?\" I hear nobody ask.",
+        "tgt": "אבל נלך אחורה קצת. \"מה בעצם יש שם?\" אף אחד לא שאל.",
+        "score1": 0.9249,
+        "score2": 0.9202,
+        "sent1": "אבל בואו נחזור קצת אחורה. \"מה בעצם יש שם?\" אני שומע שאף אחד לא שואל.\n",
+        "sent2": "אבל בואו נחזור קצת אחורה. \"מה בעצם יש שם?\" אני שומע אף אחד לא שואל.\n",
+        "analysis": "Okay, I understand. The context is:\n\n\"But let's rewind a bit. \"What's actually in there?\" I hear nobody ask.\"\n\nMy task is to perform pre-drafting research, specifically focusing on identifying idiomatic expressions that will be challenging to translate directly into Hebrew.\n\nHere's what I've found for the phrase:\n\n*   **\"Let's rewind a bit\"**: This is an idiom. A literal translation might not capture the intended meaning of going back in time or revisiting a previous point.\n\nNow I'm ready for the next stage.\n"
+    },
+    {
+        "src": "But the new ones cover that area just fine.",
+        "tgt": "אבל החדשות מכסות את האזור בסדר גמור.",
+        "score1": 0.81,
+        "score2": 0.8099,
+        "sent1": "אבל החדשים מכסים את האזור הזה מצוין.\n",
+        "sent2": "אבל החדשים מכסים את האזור הזה מצוין.\n",
+        "analysis": "Okay, I understand. My task is to identify potential translation challenges in the English sentence \"But the new ones cover that area just fine\" specifically focusing on idiomatic expressions that don't have direct Hebrew equivalents. I'll do my best to prepare for a smooth and accurate translation.\n"
+    },
+    {
+        "src": "Congress has not passed all 12 bills individually since 1996. Lawler said it's worth delaying passage of four of the bills to ensure the process is done right. If Congress cannot pass the 12 bills by December, under the Fiscal Responsibility Act, a 1 percent budget cut would be applied to defense and non-defense discretionary spending.",
+        "tgt": "הקונגרס לא אישר את כל 12 הצעות החוק בנפרד מאז 1996. לולר אמר שכדאי לדחות את אישור ארבע מהצעות החוק כדי להבטיח שהתהליך ייעשה כראוי. אם הקונגרס לא יצליח לאשר את 12 הצעות החוק עד דצמבר, במסגרת חוק האחריות הפיסקלית, יוחל קיצוץ תקציבי של אחוז אחד על הוצאות צבאיות ולא צבאיות, תוך הפעלת שיקול דעת.",
+        "score1": 0.8981,
+        "score2": 0.8946,
+        "sent1": "הקונגרס לא העביר את כל 12 הצעות החוק בנפרד מאז 1996. לאולר אמר שכדאי לעכב את העברת ארבע מהצעות החוק כדי להבטיח שהתהליך ייעשה כהלכה. אם הקונגרס לא יוכל להעביר את 12 הצעות החוק עד דצמבר, על פי חוק האחריות הפיסקלית, יחול קיצוץ של אחוז אחד בתקציב הביטחון ובהוצאות המותרות שאינן ביטחוניות.\n",
+        "sent2": "הקונגרס לא העביר את כל 12 הצעות החוק בנפרד מאז 1996. לאולר אמר שכדאי לעכב את אישורן של ארבע מהצעות החוק כדי להבטיח שהתהליך ייעשה כראוי. אם הקונגרס לא יוכל להעביר את 12 הצעות החוק עד דצמבר, על פי חוק האחריות הפיסקלית, יחול קיצוץ של אחוז אחד בתקציב על הוצאות שיקול דעת ביטחוניות ולא ביטחוניות.\n",
+        "analysis": "Okay, I understand the task. I need to translate the provided English text into Hebrew, paying close attention to potential translation challenges. My first step is to identify any idiomatic expressions that might require a more nuanced approach than a simple word-for-word translation. I will document these expressions as part of my pre-drafting research.\n\nLet's analyze the text:\n\n\"Congress has not passed all 12 bills individually since 1996. Lawler said it's worth delaying passage of four of the bills to ensure the process is done right. If Congress cannot pass the 12 bills by December, under the Fiscal Responsibility Act, a 1 percent budget cut would be applied to defense and non-defense discretionary spending.\"\n\nHere's what I've identified:\n\n*   **\"done right\"**: This is a common idiomatic expression that means \"correctly\" or \"properly.\" A direct translation might not capture the nuance of ensuring a process is thorough and yields the desired outcome. It might be more appropriate to use a phrase that emphasizes correctness, accuracy, or achieving the intended purpose.\n\nI will make sure to address this idiomatic expression during the translation process to ensure the most accurate and natural-sounding Hebrew translation. Let me know when you are ready for the next step.\n"
+    },
+    {
+        "src": "Determining which aircraft models are the safest is less straightforward. The National Transportation Safety Board maintains comprehensive databases of information about accidents and incidents. The Federal Aviation Administration also provides preliminary accident and incident reports, which include the manufacturer of the aircraft involved, from the past 10 days on its Aviation Safety Information Analysis and Sharing page.",
+        "tgt": "פחות קל לקבוע אילו דגמי מטוסים הם הבטוחים ביותר. המועצה הלאומית לבטיחות בתעבורה בארה\"ב מחזיקה במאגרי נתונים מקיפים על תאונות ואירועים. גם מינהל התעופה הפדרלי מספק דוחות מקדימים על תאונות ואירועים, עם נתוני בטיחות מעשרת הימים שקדמו לתאונה או לאירוע, שכוללים גם את יצרן המטוס, בדף Aviation Safety Information Analysis and Sharing.",
+        "score1": 0.8778,
+        "score2": 0.877,
+        "sent1": "קביעת אילו דגמי מטוסים הם הבטוחים ביותר היא פחות פשוטה. המועצה הלאומית לבטיחות בתעבורה מחזיקה במאגרי מידע מקיפים אודות תאונות ותקריות. מינהל התעופה הפדרלי מספק גם דיווחים ראשוניים על תאונות ותקריות, הכוללים את יצרן המטוס המעורב, מעשרת הימים האחרונים בדף ניתוח ושיתוף מידע לבטיחות תעופה שלו.\n",
+        "sent2": "קביעה אילו דגמי מטוסים הם הבטוחים ביותר היא משימה מורכבת יותר. המועצה הלאומית לבטיחות בתעבורה מחזיקה במאגרי מידע מקיפים על תאונות ותקריות. מינהל התעופה הפדרלי מספק גם דיווחים ראשוניים על תאונות ותקריות, הכוללים את יצרן המטוס המעורב, מ-10 הימים האחרונים בדף ניתוח ושיתוף מידע לבטיחות תעופה שלו.\n",
+        "analysis": "Okay, I understand. My task is to identify any idiomatic expressions in the given English text that might cause problems when translating into Hebrew. I need to highlight expressions where a direct word-for-word translation would not make sense or would lose the intended meaning.\n\nHere's what I've found in the provided text:\n\n*   **\"Less straightforward\"**: While not a strictly defined idiom, the phrase \"less straightforward\" implies a level of complexity or difficulty that needs to be conveyed accurately in Hebrew. A direct translation might not capture the nuance. We need to find an equivalent expression in Hebrew that reflects this indirectness or complexity.\n*   **\"Maintains comprehensive databases of information\"**: While not an idiom, the word \"maintains\" can have many translations. We need to select a word for \"maintains\" that accurately describes the FAA’s roles in maintaining the databases.\n*   **\"...from the past 10 days...\"**: Ensure the correct structure for expressing time duration in Hebrew.\n\nThis pre-drafting research helps me anticipate potential translation challenges and plan accordingly for a more accurate and natural-sounding translation.\n"
+    },
+    {
+        "src": "Good news everyone!",
+        "tgt": "חדשות טובות!",
+        "score1": 0.9788,
+        "score2": 0.9788,
+        "sent1": "חדשות טובות לכולם!\n",
+        "sent2": "חדשות טובות לכולם!\n",
+        "analysis": "Okay, I understand. The context is \"Good news everyone!\" and we're focusing on pre-drafting research, specifically identifying any idiomatic expressions that will be problematic when translating into Hebrew. I will analyze the phrase \"Good news everyone!\" for idiomatic elements.\n"
+    },
+    {
+        "src": "Great.",
+        "tgt": "נהדר.",
+        "score1": 0.8599,
+        "score2": 0.8599,
+        "sent1": "יופי.\n",
+        "sent2": "יופי.\n",
+        "analysis": "Okay, I understand. I'm ready to analyze the context \"Great\" and prepare for its translation into Hebrew, focusing on potential idiomatic expressions. Let's identify any potential challenges related to translating \"Great\" in the given context.\n"
+    },
+    {
+        "src": "Having read ahead, the next few battles sound like hard work. I just want to wander around and occasionally pick some mushrooms.",
+        "tgt": "לאחר שקראתי על ההמשך, הקרבות הבאים נשמעים קשים. אני רק רוצה לשוטט ולאסוף בצורה אקראית כמה פטריות.",
+        "score1": 0.7685,
+        "score2": 0.7639,
+        "sent1": "אחרי שקראתי קדימה, נראה שהקרבות הבאים יהיו עבודה קשה. אני רק רוצה לשוטט מדי פעם ולקטוף פטריות.\n",
+        "sent2": "לאחר שקראתי קדימה, נראה שהקרבות הבאים יהיו עבודה קשה. אני רק רוצה לשוטט מדי פעם ולקטוף פטריות.\n",
+        "analysis": "Okay, I understand. The context is: \"Having read ahead, the next few battles sound like hard work. I just want to wander around and occasionally pick some mushrooms.\"\n\nMy task is to perform pre-drafting research to identify idiomatic expressions in this context that might pose a challenge when translated into Hebrew. I will focus specifically on idiomatic expressions.\n\nHere's what I've found:\n\n*   **\"Sound like hard work\"**: This phrase implies that something *seems* difficult or challenging, not just that it involves physical labor. The challenge here is to choose a Hebrew phrase that conveys the sense of *perceived* difficulty.\n\n*   **\"Wander around\"**: While \"wander\" can be translated directly, the phrase often implies a leisurely, aimless movement with no specific destination. We need to ensure the Hebrew equivalent captures this sense of relaxed exploration.\n\n*   **\"Pick some mushrooms\"**: This could be literal, but depending on the broader context (which is limited here), it *could* be a euphemism for something else. Without further context, I'll assume it's literal, but it's worth noting as a potential area for further investigation. The challenge here might be finding the most natural and common way to describe mushroom picking in Hebrew, if one exists beyond a literal translation.\n\nThis research helps me identify potential areas where a word-for-word translation would not be ideal and where a more nuanced approach is required to accurately convey the intended meaning in Hebrew.\n"
+    },
+    {
+        "src": "Here are a few ways that I am recharged:",
+        "tgt": "כמה דוגמאות לשיטות לטעינה מחדש:",
+        "score1": 0.8853,
+        "score2": 0.8853,
+        "sent1": "הנה כמה דרכים שבהן אני נטען מחדש:\n",
+        "sent2": "הנה כמה דרכים שבהן אני נטען מחדש:\n",
+        "analysis": "Okay, I understand. The task is to translate \"Here are a few ways that I am recharged:\" into Hebrew, paying special attention to any idiomatic expressions and ensuring a natural and accurate translation within the given context. I am ready to begin the pre-drafting research.\n\nLet's examine the sentence for potential idiomatic expressions. In this specific case, \"recharged\" can be seen as potentially idiomatic. While it literally means \"charged again,\" it often carries the figurative meaning of \"restored with energy or enthusiasm; revitalized.\"\n\nTherefore, the key is to find a Hebrew equivalent that captures this sense of revitalization and renewed energy. I will now proceed to consider different options for translating \"recharged\" to ensure the most appropriate choice for this context.\n"
+    },
+    {
+        "src": "I call this a feature. That way the birds get some privacy too.",
+        "tgt": "מבחינתי זה פיצ'ר. ככה יש לציפורים גם קצת פרטיות.",
+        "score1": 0.9315,
+        "score2": 0.9308,
+        "sent1": "אני קורא לזה יתרון. ככה גם לציפורים יש קצת פרטיות.\n",
+        "sent2": "אני קורא לזה פיצ'ר. ככה גם לציפורים יש קצת פרטיות.\n",
+        "analysis": "Okay, I understand. The task is to translate the English text \"I call this a feature. That way the birds get some privacy too.\" into Hebrew, and we're starting with pre-drafting research focused on potential translation challenges, specifically idiomatic expressions.\n\nLet's analyze the text for idiomatic expressions. In this short text, the primary element to consider is the potential for the phrase \"I call this a feature\" to be idiomatic. While seemingly straightforward, its nuance can be affected by context. Does it mean \"I consider this a *benefit* even if others see it as a drawback\"? Or simply \"I refer to this as a feature\"?\n\nHere's a breakdown of my research:\n\n*   **\"I call this a feature\"**: While not a highly complex idiom, the intention behind *why* the speaker calls it a \"feature\" is important. If it's used sarcastically, or to reframe a negative into a positive, that needs to be considered. In this specific context, suggesting that the reason to call it a \"feature\" is to bring the birds privacy, one can assume the speaker is using the word \"feature\" to mean a positive aspect of the thing that he is referring to.\n\nTherefore, the translation should consider this positive spin and adjust the tone of the translation, with words such as \"advantageous\".\n\nThis research informs the next stage: devising a translation plan.\n"
+    },
+    {
+        "src": "I imagine the answer is to just kinda divorce the design from its fictional intent, ppl do that with real world tanks and jets after all, but my brain is having a DIFFICULT time w that",
+        "tgt": "נראה לי שהתשובה היא שיש איזשהו נתק בין העיצוב והכוונה הדמיונית שלו, אנשים עושים את זה עם טנקים ומטוסים בעולם האמיתי, אבל לי קשה להבין את זה",
+        "score1": 0.8483,
+        "score2": 0.8449,
+        "sent1": "אני מתאר לעצמי שהתשובה היא פשוט קצת להפריד את העיצוב מהכוונה הבדיונית שלו, אנשים עושים את זה עם טנקים ומטוסי סילון אמיתיים אחרי הכל, אבל קשה לי עם זה.\n",
+        "sent2": "אני מתאר לעצמי שהתשובה היא פשוט לנתק את העיצוב מהכוונה הבדיונית שלו, אנשים עושים את זה עם טנקים ומטוסי סילון אמיתיים אחרי הכל, אבל המוח שלי מתקשה עם זה.\n",
+        "analysis": "Okay, I understand. My task is to identify any idiomatic expressions in the English text that would be difficult to translate literally into Hebrew. I will then use this information to help formulate a translation plan.\n\nHere's what I've identified from the text:\n\n*   **\"kinda\"**: This is a colloquial abbreviation of \"kind of.\"\n*   **\"ppl\"**: This is an abbreviation of \"people.\"\n*  **\"my brain is having a DIFFICULT time w that\"**: This is an idiom expressing difficulty in comprehending or dealing with something.\n* **\"after all\"**: This is an idiom that introduces a reason that explains or justifies something.\n\nNow I'm ready for the next step, which I understand will involve pre-drafting. Let me know when you're ready to proceed.\n"
+    },
+    {
+        "src": "I need a headset.",
+        "tgt": "אני צריכה אוזניות.",
+        "score1": 0.2927,
+        "score2": 0.2906,
+        "sent1": "Okay, based on the previous analysis and the instructions for the drafting stage, here's a draft translation into Hebrew:\n\nאני צריך אוזניות.\n\n(Transliteration: *Ani tzarich ozniyot.*)\n",
+        "sent2": "אני צריך אוזניות.\n",
+        "analysis": "Okay, I understand. Given the context \"I need a headset,\" and focusing on pre-drafting research, specifically identifying potential idiomatic expressions that might pose a challenge when translating into Hebrew, here's what I can offer:\n\nIn this specific context, \"I need a headset\" is a fairly straightforward statement.  It doesn't immediately present any obvious idiomatic expressions. However, we can still consider some nuances:\n\n*   **\"Need\" can be expressed in different ways:** While not strictly idiomatic, the intensity of the \"need\" could be conveyed with different Hebrew verbs/phrases (e.g., simple requirement vs. strong desire, more formal/less formal).\n\nThe next step would be to consider the *purpose* of the headset. Is it for work calls? Gaming? Leisure listening? This would inform subtly different word choices. However, for *pre-drafting* focusing on *idiomatic expressions*, it seems fairly clear.\n\nI'm ready to move to the next stage when you are!\n"
+    },
+    {
+        "src": "I need to document this crap.",
+        "tgt": "צריך לתעד את הזבל הזה.",
+        "score1": 0.9004,
+        "score2": 0.9004,
+        "sent1": "אני צריך לתעד את החרא הזה.\n",
+        "sent2": "אני צריך לתעד את החרא הזה.\n",
+        "analysis": "Okay, I understand. The goal is to identify and research any idiomatic expressions in the phrase \"I need to document this crap\" that might be problematic for a word-for-word translation into Hebrew. Let's focus on that idiomatic expression category.\n\nHere's what I've identified:\n\n*   **\"crap\"**: In this context, \"crap\" is likely not referring to literal waste. It's an informal and slightly vulgar way of saying:\n\n    *   Something of poor quality.\n    *   Something undesirable or annoying.\n    *   Something unimportant or trivial.\n\nThis understanding is vital because a literal translation of \"crap\" (e.g., חרא) might be inappropriate and not convey the intended meaning. We need to find a Hebrew equivalent that captures the *feeling* and level of informality of the original text, fitting to the situation where the text appears.\n\nSo, this \"crap\" is the main idiomatic hurdle to overcome.\n"
+    },
+    {
+        "src": "I think it was 18bucks but looking at what could have been stuck all over me, WELL worth it.",
+        "tgt": "נראה לי שזה עלה 18 דולר אבל אם מסתכלים על מה שהיה יכול להידבק עליי, שווה את זה.",
+        "score1": 0.8867,
+        "score2": 0.8923,
+        "sent1": "אני חושב שזה היה 18 דולר, אבל כשחושבים על מה שיכל היה להידבק עלי, זה היה שווה את זה לגמרי.\n",
+        "sent2": "אני חושב שזה היה 18 דולר, אבל כשחושבים על מה שיכל היה להידבק עליי, זה היה שווה את זה בהחלט.\n",
+        "analysis": "Okay, I understand. My task is to help you translate the English text: \"I think it was 18bucks but looking at what could have been stuck all over me, WELL worth it\" into Hebrew, focusing on potentially problematic areas within the text.\n\nI will start by focusing on the research phase, specifically identifying potential idiomatic expressions.\n\nHere's what I've identified:\n\n*   **\"bucks\"**: This is an informal term for \"dollars.\" We need to find an appropriate informal equivalent in Hebrew.\n\n*   **\"WELL worth it\"**: This phrase emphasizes the value and justifies the cost. The challenge is to capture the intensity and informality of the phrase in Hebrew.\n\nNow, let's move on to the next stage. What would you like me to do next?\n"
+    },
+    {
+        "src": "I'm a solid proponent of using protective gear!",
+        "tgt": "אני מאוד בעד שימוש בציוד מגן!",
+        "score1": 0.9393,
+        "score2": 0.9392,
+        "sent1": "אני תומך נלהב בשימוש בציוד מגן!\n",
+        "sent2": "אני תומך נלהב בשימוש בציוד מגן!\n",
+        "analysis": "Okay, I understand. I'm ready to begin the pre-drafting research, focusing on potential challenges related to idiomatic expressions in the sentence: \"I'm a solid proponent of using protective gear!\" and planning for their accurate translation into Hebrew. I will specifically look for expressions that don't translate directly.\n"
+    },
+    {
+        "src": "I'm not selling them because it's not economical.",
+        "tgt": "אני לא מוכר אותן כי זה לא כלכלי.",
+        "score1": 0.9785,
+        "score2": 0.9785,
+        "sent1": "אני לא מוכר אותם כי זה לא כלכלי.\n",
+        "sent2": "אני לא מוכר אותם כי זה לא כלכלי.\n",
+        "analysis": "Okay, I understand. I will focus on identifying potential idiomatic expressions in the English text \"I'm not selling them because it's not economical\" that might require special attention during translation into Hebrew. I will then formulate a translation plan based on these findings.\n"
+    },
+    {
+        "src": "If I'm at an event I have them on me. The only upcoming events in my calendar currently are:",
+        "tgt": "אם אני באירוע הן איתי. האירועים הקרובים היחידים שנמצאים כרגע ביומן שלי הם:",
+        "score1": 0.8479,
+        "score2": 0.8479,
+        "sent1": "אם אני באירוע, הם עלי. האירועים הקרובים היחידים ביומן שלי כרגע הם:\n",
+        "sent2": "אם אני באירוע, הם עלי. האירועים הקרובים היחידים ביומן שלי כרגע הם:\n",
+        "analysis": "Okay, I understand. I'm ready to analyze the English text \"If I'm at an event I have them on me. The only upcoming events in my calendar currently are:\" and perform pre-drafting research, focusing on identifying potential idiomatic expressions that will require careful consideration for a natural and accurate Hebrew translation. Let's begin!\n"
+    },
+    {
+        "src": "In Germany, where workers and bosses run many companies jointly, a big strike is unusual. A wave of big strikes is almost unheard of. Right now the country of \"co-determination\" is simultaneously facing an eight-day \"action week\" by irate farmers, who blocked roads with tractors, a three-day strike of railway workers and, to top it off, a looming strike of doctors, who already closed surgeries between Christmas and New Year's Day. This Mistgabelmop (pitchfork mob), as some have taken to calling it, will test Germany's harmonious labour relations in the year to come.",
+        "tgt": "בגרמניה, שבה העובדים והבוסים מנהלים יחד חברות רבות, שביתה גדולה היא דבר יוצא דופן. גל של שביתות גדולות הוא דבר שבדרך כלל לא קורה. כרגע, המדינה שבה \"כולם שותפים בהחלטות\" מתמודדת בו זמנית עם \"שבוע פעולה\" בן שמונה ימים של חקלאים זועמים שחסמו כבישים בטרקטורים, שביתה בת שלושה ימים של עובדי הרכבת, ובנוסף, שביתה מתקרבת של רופאים, שכבר סגרו מרפאות בין חג המולד ליום השנה החדשה. המצב הזה, שאותו מובילה \"תנועת הקילשונים\", יעמיד במבחן את ההרמוניה ביחסי העבודה בגרמניה בשנה הקרובה.",
+        "score1": 0.8294,
+        "score2": 0.8298,
+        "sent1": "בגרמניה, שבה עובדים ומנהלים מנהלים חברות רבות במשותף, שביתה גדולה היא דבר חריג. גל של שביתות גדולות הוא כמעט בלתי נשמע. כרגע, מדינת ה\"שיתוף בהחלטות\" מתמודדת בו-זמנית עם \"שבוע פעולה\" בן שמונה ימים של חקלאים זועמים, שחסמו כבישים עם טרקטורים, שביתה בת שלושה ימים של עובדי רכבת, ולסיום, שביתה מתקרבת של רופאים, שכבר סגרו מרפאות בין חג המולד לראש השנה. ה-\"Mistgabelmop\" הזה (אספסוף הקלשונים), כפי שחלק בחרו לכנות אותו, יבחן את יחסי העבודה ההרמוניים של גרמניה בשנה הקרובה.\n",
+        "sent2": "בגרמניה, בה עובדים ומנהלים מנהלים חברות רבות במשותף, שביתה גדולה היא דבר חריג. גל של שביתות גדולות הוא כמעט בלתי נשמע. כרגע, מדינת ה\"שיתוף-פעולה\" ניצבת בפני \"שבוע פעולה\" בן שמונה ימים של חקלאים זועמים, שחסמו כבישים עם טרקטורים, שביתה בת שלושה ימים של עובדי הרכבת, ולקינוח, שביתה מתקרבת של רופאים, שכבר סגרו מרפאות בין חג המולד לראש השנה. אספסוף המזלגות הזה (Mistgabelmop), כפי שחלק בחרו לכנות אותו, יבחן את יחסי העבודה ההרמוניים של גרמניה בשנה הקרובה.\n",
+        "analysis": "Okay, I understand. My goal is to identify any idiomatic expressions in the English text that will require special attention and a non-literal translation into Hebrew. Let's analyze the provided text:\n\n1.  **\"to top it off\"**: This is an idiomatic expression meaning \"to make things even worse\" or \"as the final straw.\" A direct translation might not capture the same nuance in Hebrew.\n\n2.  **\"Mistgabelmop (pitchfork mob)\"**: This is a German term, likely used humorously or derisively. It's important to understand the connotations in German and how best to convey that in Hebrew.  A direct translation of \"pitchfork mob\" might not work, as it's the specific *German* cultural reference that gives it its meaning.\n\n3.  **\"harmonious labour relations\"**: While not strictly an idiom, the word \"harmonious\" might require specific attention to find the most culturally appropriate equivalent in Hebrew to convey the intended meaning of generally peaceful and cooperative relations.\n\nNow I have a better understanding of the specific challenges. I'm ready for the next stage.\n"
+    },
+    {
+        "src": "In an effort to defuse the tension with the farmers, the government agreed to a gradual removal of the diesel subsidy over three years and to keeping the exemption from the car tax. The farmers pooh-poohed the concessions as insufficient. On January 4th an aggressive group of them prevented Robert Habeck, the economy minister, from disembarking from a ferry on his return from a family holiday. If the train drivers are similarly unimpressed, that could prove expensive for German business, reckons IW Köln, a think-tank. The rail strike could cost businesses €100m ($110m) a day if it forced them to interrupt production. The car, chemical and steel industries, Germany's biggest, are especially reliant on rail transport.",
+        "tgt": "בניסיון למתן את הזעם של החקלאים, הממשלה הסכימה להפסיק בהדרגה את סבסוד הסולר במשך שלוש שנים ולהשאיר את הפטור של מיסוי הרכב. החקלאים לא התרשמו, וטענו שזה לא מספיק. ב-4 בינואר, קבוצה של חקלאים זועמים מנעה מרוברט האבק, שר הכלכלה, לרדת ממעבורת בנסיעתו חזרה מחופשה משפחתית. אם גם נהגי הרכבות לא יהיו מרוצים מהצעות הפשרה של הממשלה, המחיר העסקי עלול להיות גבוה, לפי צוות החשיבה IW Köln. שביתת הרכבות עלולה לעלות לעסקים 100 מיליון יורו ביום אם כתוצאה ממנה הם ייאלצו להפסיק את הייצור. תעשיות הרכב, הכימיקלים והפלדה, התעשיות הגדולות של גרמניה, תלויות במיוחד בשינוע ברכבות.",
+        "score1": 0.895,
+        "score2": 0.8875,
+        "sent1": "במאמץ להפיג את המתח עם החקלאים, הסכימה הממשלה להסרה הדרגתית של סבסוד הסולר במשך שלוש שנים ולשמירה על הפטור ממס רכב. החקלאים זלזלו בהטבות בטענה שהן אינן מספיקות. ב-4 בינואר, קבוצה תוקפנית מתוכם מנעה מרוברט האבק, שר הכלכלה, לרדת ממעבורת בשובו מחופשת משפחתית. אם גם נהגי הרכבות לא יתרשמו, זה עלול להתברר כיקר לעסקים בגרמניה, מעריך IW קלן, מכון מחקר. שביתת הרכבות עלולה לעלות לעסקים 100 מיליון אירו (110 מיליון דולר) ביום אם היא תאלץ אותם להפסיק את הייצור. תעשיות הרכב, הכימיה והפלדה, הגדולות ביותר בגרמניה, תלויות במיוחד בתחבורה מסילתית.\n",
+        "sent2": "בניסיון להרגיע את המתיחות עם החקלאים, הממשלה הסכימה להסרה הדרגתית של סבסוד הסולר במשך שלוש שנים ולשמירה על הפטור ממס רכב. החקלאים זלזלו בהקלות וטענו שהן אינן מספיקות. ב-4 בינואר, קבוצה אגרסיבית מתוכם מנעה מרוברט האבק, שר הכלכלה, לרדת ממעבורת בשובו מחופשה משפחתית. אם נהגי הרכבות יהיו לא פחות מרוצים, זה עלול להתברר כיקר לעסקים הגרמניים, מעריך IW קלן, צוות חשיבה. שביתת הרכבות עלולה לעלות לעסקים 100 מיליון אירו (110 מיליון דולר) ביום אם היא תאלץ אותם להפסיק את הייצור. תעשיות הרכב, הכימיקלים והפלדה, הגדולות ביותר בגרמניה, תלויות במיוחד בתחבורת רכבות.\n",
+        "analysis": "Okay, I understand. I will focus on identifying idiomatic expressions in the English text that require careful consideration before direct translation into Hebrew. Here's what I've identified so far from the provided text:\n\n*   **\"pooh-poohed the concessions\"**: This means to dismiss something as unimportant or ridiculous. A direct translation might not capture the dismissive tone effectively.\n*   **\"similarly unimpressed\"**: A straightforward phrase, but cultural nuances might influence the best way to convey a lack of enthusiasm or dissatisfaction in Hebrew.\n*    **\"reckons\"**: In this context reckons is used as thinks or assumes.\n*   **\"prove expensive\"**: This is fairly straightforward, but the emphasis on \"expensive\" might need a specific Hebrew phrasing to highlight the severity of the cost.\n*   **\"think-tank\"**: While the concept exists in Hebrew-speaking contexts, finding the most appropriate and commonly used term is essential.\n\nThis pre-drafting research helps identify potential areas where a literal translation would be inadequate or unnatural. It sets the stage for finding equivalent expressions or rephrasing to accurately convey the meaning and tone in Hebrew. I'm ready for the next step.\n"
+    },
+    {
+        "src": "In an interview with Ventures Africa, an anonymous Senior Legal Official from a leading commercial bank commented, \"There are several issues concerning this matter. First, her ministry is relatively new, and her predecessor and pioneering minister, Sadiya Umar-Farouk, engaged in activities that appeared to be illegal. It might be a reflection of how they operate in the ministry. Nevertheless, paying public money into private accounts goes against public procurement rules.\" He added that unless she can provide a valid reason for such approval, it may not necessarily involve fraudulent intent, but it is nonetheless incorrect, and certainty is lacking.",
+        "tgt": "בראיון ל-Ventures Africa, נציג משפטי בכיר של אחד הבנקים הגדולים אמר: \"יש כמה בעיות שקשורות לעניין הזה. ראשית, המינוי שלה חדש יחסית, וקודמתה, השרה סאדיה עומר-פארוק, עסקה בפעילויות שנראו כבלתי חוקיות. זה עשוי לשקף את אופן הפעולה שלהם במשרד. בנוסף, העברת כספי ציבור לחשבונות פרטיים מנוגדת לכללי הרכש הציבורי\". הוא הוסיף שאם היא לא תוכל להמציא סיבה מוצדקת לאישור כזה, זה לא אומר שזה בהכרח קשור בכוונת זדון, אבל זה דבר שגוי שדורש בירור.",
+        "score1": 0.8624,
+        "score2": 0.865,
+        "sent1": "בדברים שנאמרו בראיון ל-\"Ventures Africa\", גורם משפטי בכיר אנונימי מבנק מסחרי מוביל ציין: \"ישנם מספר נושאים הנוגעים לעניין זה. ראשית, המשרד שלה חדש יחסית, וקודמתה, השרה החלוצה, סדיה עומר-פארוק, עסקה בפעילויות שנראו כבלתי חוקיות. זה עשוי להיות שיקוף של האופן שבו הם פועלים במשרד. אף על פי כן, תשלום כספי ציבור לחשבונות פרטיים מנוגד לכללי הרכש הציבורי.\" הוא הוסיף שאלא אם כן היא יכולה לספק סיבה תקפה לאישור כזה, ייתכן שזה לא בהכרח כרוך בכוונה הונאה, אבל זה בכל זאת לא נכון, וחסרה ודאות.\n",
+        "sent2": "בראיון ל\"ונצ'רס אפריקה\", גורם בכיר משפטי אנונימי מבנק מסחרי מוביל הגיב: \"יש מספר בעיות בנוגע לעניין זה. ראשית, המשרד שלה יחסית חדש, והקודמת שלה, השרה החלוצה סדיה עומר-פארוק, עסקה בפעילויות שנראו כלא חוקיות. זה עלול להיות השתקפות של האופן שבו הם פועלים במשרד. למרות זאת, תשלום כספי ציבור לחשבונות פרטיים מנוגד לכללי הרכש הציבורי.\" הוא הוסיף שאם היא לא תוכל לספק סיבה תקפה לאישור כזה, זה אולי לא מעיד בהכרח על כוונה לרמות, אבל זה בכל זאת שגוי, וחסרה ודאות.\n",
+        "analysis": "Okay, I understand. I will focus on identifying idiomatic expressions in the provided English text that would present a challenge for direct translation into Hebrew. Here's what I've identified:\n\n*   **\"goes against public procurement rules\"**: While the literal meaning is understandable, directly translating this might sound awkward or unnatural in Hebrew. We need to find a more idiomatic way to express the idea of *violating* or *contravening* those rules.\n\n*   **\"it may not necessarily involve fraudulent intent, but it is nonetheless incorrect\"**: The phrase \"nonetheless incorrect\" is fairly straightforward, but achieving the right nuance of contrast while maintaining a natural flow in Hebrew will require careful consideration.\n\n*   **\"certainty is lacking\"**: A direct translation might sound overly formal. We need to find a more natural and common way to convey the idea that there is a lack of certainty or clarity.\n\nThis pre-drafting research highlights potential areas where a literal translation might not be ideal. The next steps will involve finding equivalent expressions or rephrasing to ensure the translated text is both accurate and reads naturally in Hebrew.\n"
+    },
+    {
+        "src": "Initially, I wasn't sure if the internet in our garden would be good enough for this setup. The old access points I replaced last year in the fall wouldn't have cut it.",
+        "tgt": "בהתחלה, לא ידעתי אם הקליטה של האינטרנט בגינה שלנו תהיה מספיק טובה למערך הזה. נקודות הגישה הישנות שהחלפתי בסתיו של השנה שעברה לא היו מספיקות לזה.",
+        "score1": 0.9254,
+        "score2": 0.9262,
+        "sent1": "בהתחלה, לא הייתי בטוח אם האינטרנט בגינה שלנו יהיה מספיק טוב עבור ההתקנה הזו. נקודות הגישה הישנות שהחלפתי בשנה שעברה בסתיו לא היו מספיקות.\n",
+        "sent2": "בהתחלה, לא הייתי בטוח אם האינטרנט בגינה שלנו יהיה מספיק טוב בשביל ההתקנה הזו. נקודות הגישה הישנות שהחלפתי בשנה שעברה בסתיו לא היו מספיקות.\n",
+        "analysis": "Okay, I understand. Let's start the pre-drafting research focusing on idiomatic expressions in the English text that might be tricky to translate directly into Hebrew.\n\nHere's what I've identified:\n\n*   **\"wouldn't have cut it\"**: This is an idiomatic expression meaning \"would not have been sufficient\" or \"would not have been good enough.\" A direct word-for-word translation likely wouldn't make sense in Hebrew. I need to find an equivalent phrase or rephrase the sentence to convey the same meaning.\n\nNow, let me know if you'd like me to research specific Hebrew phrases that might work as alternatives, or if you want me to move onto another category of research (e.g., specific vocabulary related to internet access points).\n"
+    },
+    {
+        "src": "It also plans to continue rolling out evening opening hours on a targeted basis, with extended hours currently available in around 1,200 of its shops. The firm in a trading update posted a 9.4 per cent rise in like-for-like sales across its own-managed shops in the fourth quarter, a slowdown on the 14.2 per cent growth seen in the previous three months, as Greggs said there was less contribution from price inflation. It saw full-year comparable growth of 13.7 per cent, with total full-year sales up by a fifth to £1.8 billion.",
+        "tgt": "ברשת מתכננים גם להמשיך בהרחבת שעות הפתיחה בערב על בסיס ייעודי, כאשר שעות פעילות נרחבות יותר זמינות כרגע ב-1,200 חנויות. בהודעה לבורסה שהחברה פרסמה, היא דיווחה ברבעון הרביעי על עלייה של 9.4% במכירות בחנויות שמנוהלות עצמאית בהשוואה לתקופה המקבילה בשנה שעברה – האטה לעומת הצמיחה של 14.2% בשלושת החודשים הקודמים, וב-Greggs הסבירו שהאינפלציה הייתה נמוכה יותר. החברה נהנתה מצמיחה שנתית כוללת של 13.7%, עם מכירות שנתיות בסך 1.8 מיליארד ליש\"ט – עלייה של כעשרים אחוזים.",
+        "score1": 0.8222,
+        "score2": 0.8189,
+        "sent1": "היא גם מתכננת להמשיך ולהרחיב את שעות הפתיחה בערב על בסיס ממוקד, כאשר שעות פעילות מוארכות זמינות כעת בכ-1,200 מחנויותיה. החברה דיווחה בעדכון סחר על עלייה של 9.4 אחוזים במכירות זהות בחנויות שבניהולה ברבעון הרביעי, האטה לעומת צמיחה של 14.2 אחוזים שנראתה בשלושת החודשים הקודמים, כאשר Greggs אמרה שהייתה פחות תרומה מאינפלציית מחירים. היא ראתה צמיחה דומה שנתית מלאה של 13.7 אחוזים, כאשר סך המכירות השנתיות המלאות עלה בחמישית ל-1.8 מיליארד ליש\"ט.\n",
+        "sent2": "החברה מתכננת גם להמשיך ולפרוס שעות פתיחה בערב על בסיס ממוקד, כאשר שעות מורחבות זמינות כעת בכ-1,200 מחנויותיה. העדכון המסחרי של החברה הציג עלייה של 9.4 אחוזים במכירות זהות בחנויות בניהולה העצמי ברבעון הרביעי, האטה לעומת צמיחה של 14.2 אחוזים שנרשמה בשלושת החודשים הקודמים, כאשר Greggs ציינה כי הייתה פחות תרומה מאינפלציית מחירים. היא ראתה צמיחה דומה שנתית מלאה של 13.7 אחוזים, כאשר סך המכירות השנתיות המלאות עלה בחמישית ל-1.8 מיליארד ליש\"ט.\n",
+        "analysis": "Okay, I understand. I need to analyze the provided text and identify any idiomatic expressions that would present a challenge when translating into Hebrew. Let's get started.\n\nAfter reviewing the text, I've identified the following potentially idiomatic expression:\n\n*   **\"like-for-like sales\"**: This term, commonly used in retail, refers to sales figures that compare the revenue generated by existing stores over a specific period, excluding new store openings or closures. It essentially measures comparable store sales growth.\n\nNext stage?\n"
+    },
+    {
+        "src": "I’m trying to goad myself into doing more. But empty nest syndrome has hit me hard.",
+        "tgt": "אני מנסה לדרבן את עצמי לעשות יותר. אבל תסמין הקן הריק פגע בי קשות.",
+        "score1": 0.9238,
+        "score2": 0.9239,
+        "sent1": "אני מנסה לדחוף את עצמי לעשות יותר. אבל תסמונת הקן הריק פגעה בי קשה.\n",
+        "sent2": "אני מנסה לדחוף את עצמי לעשות יותר, אבל תסמונת הקן הריק פגעה בי קשה.\n",
+        "analysis": "Okay, I understand. Let's start with the pre-drafting research, focusing on idiomatic expressions in the English text that require careful consideration for translation into Hebrew.\n\n**Idiomatic Expressions:**\n\n*   **\"Goad myself into doing more\":** This phrase implies urging or pushing oneself to be more productive or active. A direct translation might not capture the nuance of self-motivation and encouragement. We need to find a Hebrew equivalent for self-encouragement, self-motivation aiming for productivity.\n*   **\"Empty nest syndrome\":** This refers to the feeling of sadness or loss that parents may experience when their children leave home. Hebrew may have a similar term or expression or we might need to translate the meaning and feeling directly.\n\nThis initial research helps identify potential challenges in translating these idiomatic expressions directly. I'm ready for the next step when you are.\n"
+    },
+    {
+        "src": "JANUARY 14th, 10:26 PM, 2543.",
+        "tgt": "14 בינואר, 22:26, 2543.",
+        "score1": 0.2957,
+        "score2": 0.2936,
+        "sent1": "Okay, following the pre-drafting analysis, here is the draft translation into Hebrew, focusing on adequacy and including all elements from the source text:\n\n14.1.2543, 22:26\n",
+        "sent2": "14 בינואר, 22:26, 2543.\n",
+        "analysis": "Okay, I understand. My task is to research the provided context (\"JANUARY 14th, 10:26 PM, 2543\") and identify any elements that require special consideration when translating into Hebrew, specifically focusing on potential idiomatic expressions.\n\nLet's begin the research:\n\nIn this particular context, there aren't any true idiomatic expressions in the English text itself. The elements require attention for culturally appropriate translation related to date and time formats. Here's a breakdown:\n\n*   **Date Format:**\n    *   In English, the date is written as \"Month Day, Year\".\n    *   In Hebrew, the common format is \"Day.Month.Year\" (יְוֹם.חוֹדֶשׁ.שָׁנָה).\n    *   Therefore, \"January 14th, 2543\" must be reordered.\n\n*   **Time Format:**\n    *   \"10:26 PM\" uses the 12-hour clock with AM/PM markers.\n    *   Hebrew commonly uses the 24-hour clock.\n    *   Thus, \"10:26 PM\" needs conversion to 22:26.\n\n*   **Ordinal Numbers:**\n    *   English uses ordinal numbers (14th), while Hebrew typically uses cardinal numbers in dates (14).\n\n* **Era/Calendar:**\n    *   The year 2543 is based on the Gregorian calendar. It's important to not accidentally translate this to the Hebrew calendar (which would be a different year).\n\nTherefore, the research stage reveals the following planning steps: reordering of Month, Day, and Year, conversion of the time to a 24-hour format, changing the ordinal number 14th to the cardinal number 14, and keeping the Gregorian calendar year as is.\n"
+    },
+    {
+        "src": "Just discovered the upgrade where you can see where you've been.",
+        "tgt": "הרגע גיליתי את השדרוג שבו ניתן לראות איפה היית.",
+        "score1": 0.9425,
+        "score2": 0.9358,
+        "sent1": "זה עתה גיליתי את השדרוג שבו אפשר לראות איפה היית.\n",
+        "sent2": "פשוט גיליתי את השדרוג שבו אפשר לראות איפה היית.\n",
+        "analysis": "Okay, I understand. My task is to perform pre-drafting research for translating the English text \"Just discovered the upgrade where you can see where you've been\" into Hebrew, focusing specifically on identifying and addressing potential issues with idiomatic expressions.  I will analyze the text and highlight any phrases that might not have a direct, literal equivalent in Hebrew and require a more nuanced or creative translation approach. Let's begin.\n"
+    },
+    {
+        "src": "Kremen also confirmed that a 3,400 hryvnia ($89) fine had been imposed on a Kiev taxi driver who serviced his clients in Russian. The ombudsman reminded the public of a \"detailed algorithm of actions in case of violation of the right to receive information or services in the state language,\" urging people to immediately file complaints on the commissioner's website when such cases occur.",
+        "tgt": "קרמן גם אישר שקנס של 3,400 Hryvnia (89 דולר) הוטל על נהג מונית בקייב שנתן שירות ללקוחות ברוסית. המפקח הזכיר לציבור את \"הנוהל המפורט לפעולה במקרים של הפרת הזכות לקבל מידע או שירותים בשפת המדינה\", וקרא לציבור להגיש תלונות באתר המפקח במקרים כאלו.",
+        "score1": 0.8774,
+        "score2": 0.8807,
+        "sent1": "קרמן גם אישר כי קנס של 3,400 הריבניה (89 דולר) הוטל על נהג מונית מקייב שנתן שירות ללקוחותיו בשפה הרוסית. האומבודסמן הזכיר לציבור \"אלגוריתם פעולות מפורט במקרה של הפרת הזכות לקבלת מידע או שירותים בשפה הממלכתית\", ודחק באנשים להגיש תלונות באופן מיידי באתר הנציב כאשר מקרים כאלה מתרחשים.\n",
+        "sent2": "קרמין גם אישר כי קנס של 3,400 הריבניה (89 דולר) הוטל על נהג מונית בקייב ששירת את לקוחותיו ברוסית. האומבודסמן הזכיר לציבור \"אלגוריתם פעולות מפורט למקרה של הפרת הזכות לקבל מידע או שירותים בשפת המדינה\", ודחק באנשים להגיש תלונות באופן מיידי באתר הנציב כאשר מקרים כאלה מתרחשים.\n",
+        "analysis": "Okay, I understand. I need to identify any idiomatic expressions in the English text that would be problematic if translated literally into Hebrew. Let's analyze the text:\n\n*   **\"serviced his clients\"**: This is a common business term and not particularly idiomatic, but we need to consider the best way to express \"serviced\" in Hebrew within the context of a taxi driver. We need to choose a verb that implies providing a service to customers in a commercial transaction.\n\n*   **\"reminded the public\"**: Straightforward, but we want to ensure the Hebrew equivalent carries the same tone of official authority.\n\n*   **\"algorithm of actions\"**: This is a fairly technical term. We should research the standard Hebrew translation for \"algorithm\" to guarantee accuracy.\n\n*   **\"in case of violation of the right to receive information or services\"**: This is a legalistic phrase. Accuracy and clarity are paramount. We need to use the correct legal terminology in Hebrew.\n\n*   **\"state language\"**: This refers to Ukrainian in this context, even though the text is in English. Important to keep that in mind for comprehension.\n\n*   **\"urging people to immediately file complaints\"**: \"Urging\" has a specific connotation. Should make sure the translation correctly captures the intent of the original text using Hebrew terms.\n\n*   **\"when such cases occur\"**: This is simple but must be translated accurately.\n\nTherefore, the expressions that could cause some difficulty when translated to Hebrew are: \"serviced his clients\" and \"urging people to immediately file complaints\".\n\nThis research helps me understand the nuances of the text and potential difficulties in translation. I'm ready for the next stage.\n"
+    },
+    {
+        "src": "Let's wait and see.",
+        "tgt": "נחכה ונראה.",
+        "score1": 0.991,
+        "score2": 0.991,
+        "sent1": "נחכה ונראה.\n",
+        "sent2": "נחכה ונראה.\n",
+        "analysis": "Okay, I understand. The context is \"Let's wait and see,\" and we're focusing on pre-drafting research, specifically identifying idiomatic expressions for translation into Hebrew. Let's break it down:\n\n*   **Idiomatic Expressions:** \"Let's wait and see\" is indeed an idiom. A direct word-for-word translation into Hebrew might not convey the same meaning or sound natural. The key is to find a Hebrew equivalent that expresses the same sentiment of patience and observation.\n\nNow I'm ready for the next stage. I'll be looking for a Hebrew equivalent to \"Let's wait and see\".\n"
+    },
+    {
+        "src": "Me, wearing a johnston plaid kilt and reading The Elders of Ireland: No, I just don't see how that would fit into my life.",
+        "tgt": "אני, עם חצאית סקוטית משובצת ועם הספר \"The Elders of Ireland\": לא, לא רואה איך זה ישתלב בחיים שלי.",
+        "score1": 0.686,
+        "score2": 0.6862,
+        "sent1": "אני, לובש חצאית סקוטית משובצת של ג'ונסטון וקורא את \"זקני אירלנד\": לא, אני פשוט לא רואה איך זה ישתלב בחיים שלי.\n",
+        "sent2": "אני, לובש חצאית סקוטית משובצת ג'ונסטון וקורא את \"זקני אירלנד\": לא, אני פשוט לא רואה איך זה ישתלב בחיים שלי.\n",
+        "analysis": "Okay, I understand. My task is to perform pre-drafting research for the translation of the sentence: \"Me, wearing a johnston plaid kilt and reading The Elders of Ireland: No, I just don't see how that would fit into my life,\" into Hebrew.  The focus of this research is to identify potential idiomatic expressions that require special attention and cannot be translated literally.\n\nHere's what I've found:\n\n*   **\"I just don't see how that would fit into my life.\"** This is the primary idiomatic expression.  It doesn't translate directly literally. The core meaning is \"I can't imagine incorporating that into my life\" or \"I don't understand how that would be compatible with my life.\" We need to find an equivalent expression in Hebrew that conveys this sense of incompatibility or lack of integration.\n\nI will now await instructions regarding the next step.\n"
+    },
+    {
+        "src": "My surgeon is really thoughtful. He called the day before because snow was forecast, and as the medical team was fussing over me as I was coming out of anesthesia in the recovery room my surgeon noticed I was opening my eyes and the bandage was in my eyes. I mean plus doing the surgery. But still so disorienting. One of the most scary things I’ve done and I was asleep and it felt like no time.",
+        "tgt": "המנתח שלי מאוד מתחשב. הוא התקשר אלי יום קודם כי בתחזית אמרו שיהיה שלג. כשהצוות הרפואי טיפל בי כשהתעוררתי מההרדמה בחדר ההתאוששות, המנתח שם לב שאני פוקחת עיניים ושהתחבושת נכנסה לתוך העין שלי. אני מתכוונת בנוסף לניתוח. אבל עדיין הגשתי כל כך מבולבלת. אחד הדברים המפחידים ביותר שעשיתי, וכשישנתי היה נדמה שהזמן לא עבר.",
+        "score1": 0.8018,
+        "score2": 0.8029,
+        "sent1": "המנתח שלי ממש מתחשב. הוא התקשר יום קודם כי תחזית מזג האוויר צפתה שלג, וכשהצוות הרפואי טיפל בי מאוד כשהתעוררתי מההרדמה בחדר ההתאוששות, המנתח שלי שם לב שפקחתי את עיני והתחבושת הייתה לי על העיניים. אני מתכוון, בנוסף לניתוח עצמו. אבל עדיין כל כך מטשטש. אחד הדברים הכי מפחידים שעשיתי, וישנתי וזה הרגיש כאילו לא עבר זמן.\n",
+        "sent2": "המנתח שלי ממש מתחשב. הוא התקשר יום לפני כי חזו שלג, וכשהצוות הרפואי התעסק סביבי כשיצאתי מההרדמה בחדר התאוששות, המנתח שלי שם לב שאני פוקחת את העיניים והתחבושת הייתה לי בעיניים. כלומר, בנוסף לניתוח עצמו. אבל עדיין כל כך מבלבל. אחד הדברים הכי מפחידים שעשיתי, ואני הייתי ישנה וזה הרגיש כאילו לא עבר זמן.\n",
+        "analysis": "Okay, I understand. Here's my pre-drafting research on idiomatic expressions in the provided context:\n\n*   **\"fussing over me\"**: This describes attentive and possibly anxious care. The literal translation might not capture the nuance of concern.\n\n*   **\"I mean plus doing the surgery.\"**: The idiomatic meaning is \"In addition to just performing the surgery\".\n\n*   **\"One of the most scary things I've done\"**: This uses a superlative to express a high agree of fear.\n\nThis research helps highlight potential areas where direct translation could fall short and need more nuanced solutions to maintain the original meaning and tone in Hebrew.\n"
+    },
+    {
+        "src": "My surgery involved lots of rest so I watched seasons 1-3 of Grey’s Anatomy. It helped McDreamy was a neurosurgeon. I would pay attention to how the patient was positioned just in the event I could guess what happened to me. Since my surgery in 2018, Hospital Playlist has shown more dramatization of neurosurgery than any other medical show I’ve seen since Grey’s. It is nice to have art and entertainment to help us make sense of our life.",
+        "tgt": "ההתאוששות מהניתוח שלי דורשת הרבה מנוחה, וצפיתי בעונות 1 עד 3 של \"האנטומיה של גריי\". מקדרימי היה נוירולוג וזה עזר לי כשצפיתי בו. בחנתי את התנוחה של המטופל כדי שאוכל לנחש מה אני עברתי בניתוח. מאז הניתוח שלי ב-2018, הפלייליסט לבית החולים הפך דרמטי יותר וכלל ניתוחים נוירולוגיים. נחמד שאנחנו יכולים להיעזר באמנות ובידור כדי להבין מה קורה בחיים שלנו.",
+        "score1": 0.8341,
+        "score2": 0.8372,
+        "sent1": "הניתוח שלי הצריך הרבה מנוחה אז צפיתי בעונות 1-3 של \"האנטומיה של גריי\". זה עזר שמקדרימי היה נוירוכירורג. שמתי לב לאופן שבו המטופל היה ממוקם למקרה שאוכל לנחש מה קרה לי. מאז הניתוח שלי בשנת 2018, \"פלייליסט בית חולים\" הציגה יותר דרמטיזציה של ניתוחי מוח מכל תוכנית רפואית אחרת שראיתי מאז \"האנטומיה של גריי\". נחמד שיש אמנות ובידור שעוזרים לנו להבין את החיים שלנו.\n",
+        "sent2": "הניתוח שלי הצריך מנוחה מרובה אז צפיתי בעונות 1-3 של \"האנטומיה של גריי\". זה עזר שמקדרימי היה נוירוכירורג. הקדשתי תשומת לב לאופן בו המטופל ממוקם, למקרה שאוכל לנחש מה קרה לי. מאז הניתוח שלי ב-2018, \"פלייליסט בית חולים\" הציגה יותר דרמטיזציה של נוירוכירורגיה מכל תוכנית רפואית אחרת שראיתי מאז \"האנטומיה של גריי\". נחמד שיש אמנות ובידור שיעזרו לנו להבין את החיים שלנו.\n",
+        "analysis": "Okay, I understand. I'm ready to begin the pre-drafting research phase. I will focus on identifying any idiomatic expressions in the provided English text that might present translation challenges when converting the text to Hebrew. Here's what I've found:\n\n*   **\"It helped McDreamy was a neurosurgeon\"**: This is a slightly idiomatic way of saying that it was beneficial or comforting that the character \"McDreamy\" (from Grey's Anatomy) was a neurosurgeon. The phrase implies a connection or a relatable aspect for the person recovering from surgery. A direct translation might not capture the nuance of finding comfort in the character's profession.\n*   **\"make sense of our life.\"**: While not a strong idiom, it does have a nuance beyond just \"understand our life\". It implies finding meaning and order within the experiences of life.\n\nI am ready for the next step.\n"
+    },
+    {
+        "src": "Not impossible, but it's going to take a VERY long time and require a LOT of extra work.",
+        "tgt": "זה לא בלתי אפשרי, אבל זה ייקח הרבה מאוד זמן ויחייב הרבה עבודה נוספת.",
+        "score1": 0.2792,
+        "score2": 0.2816,
+        "sent1": "Okay, here's my draft translation, focusing on accuracy and incorporating the considerations from the pre-drafting analysis:\n\n**לא בלתי אפשרי, אבל זה ייקח המון זמן וידרוש הרבה עבודה נוספת.**\n\nLet me break down the choices:\n\n*   **\"לא בלתי אפשרי\" (Lo bilti efshari)**: This is a fairly literal translation of \"Not impossible.\" I've kept it for the first draft to maintain accuracy, but I recognize it might sound a bit formal in Hebrew. I'll consider alternatives in the next stage.\n*   **\"ייקח המון זמן\" (Yikach hamon zman)**: This translates to \"it will take a lot of time.\" I've used \"המון\" (hamon) to translate \"VERY,\" feeling it conveys the sense of a large quantity of time in a natural way.\n*   **\"וידרוש הרבה עבודה נוספת\" (Ve-yidrosh harbe avoda nosefet)**: This translates to \"and will require a lot of extra work.\" I chose \"הרבה\" (harbe) for \"a LOT,\" again aiming for a natural sound in Hebrew. \"עבודה נוספת\" (avoda nosefet) directly translates to \"extra work\".\n\nThis is my best attempt at an accurate first draft, based on the information and analysis so far.\n",
+        "sent2": "לא בלתי אפשרי, אבל זה ייקח המון זמן וידרוש המון עבודה נוספת.\n",
+        "analysis": "Okay, I'm ready. I understand the context: someone is assessing a task and saying it's possible, but difficult and time-consuming. My first task is to identify any idiomatic expressions in the English text that will require special attention when translating to Hebrew. Let's begin!\n\nAnalyzing the English text: \"Not impossible, but it's going to take a VERY long time and require a LOT of extra work.\"\n\nI see the following potential idiomatic expressions or phrases that need careful consideration:\n\n*   **\"Not impossible\"**: While seemingly straightforward, the nuance might be lost with a direct literal translation. In Hebrew, there might be a more natural way to express something that is difficult but achievable. Is there a more common, less literal way of expressing \"not impossible\" in Hebrew?\n*   **\"a VERY long time\"**: The word \"VERY\" is an intensifier. We need to find an equivalent intensifier in Hebrew that fits the context of time. Is the best approach to use words like \"הרבה\" (harbe, a lot) or \"מאוד\" (me'od, very), or should the translation aim for something more colorful/expressive?\n*   **\"a LOT of extra work\"**: Similar to \"VERY,\" \"a LOT\" is an intensifier. In Hebrew, what is the best equivalent to express the *amount* of additional work? How do we ensure that \"extra work\" feels natural in Hebrew?\n\nBased on this initial research, I'll pay close attention to these phrases as we move through the translation process. I'm ready for the next stage.\n"
+    },
+    {
+        "src": "Now, for reasons I'm not sure about yet, the camera is offline. It went out only one hour after sunset.",
+        "tgt": "עכשיו, מסיבות לא ברורות, המצלמה אופליין. היא כבתה רק שעה לאחר השקיעה.",
+        "score1": 0.8844,
+        "score2": 0.8861,
+        "sent1": "עכשיו, מסיבות שעדיין לא ברורות לי, המצלמה לא מקוונת. היא הפסיקה לפעול רק שעה אחת אחרי השקיעה.\n",
+        "sent2": "עכשיו, מסיבות שעדיין לא ברורות לי, המצלמה לא מקוונת. היא יצאה משימוש שעה אחת בלבד אחרי השקיעה.\n",
+        "analysis": "Okay, I understand. My task is to identify any idiomatic expressions in the English text, \"Now, for reasons I'm not sure about yet, the camera is offline. It went out only one hour after sunset,\" that would pose a problem for direct translation into Hebrew. I will focus on idiomatic phrases that wouldn't make sense or would sound awkward if translated literally.\n"
+    },
+    {
+        "src": "Oh, and a different lens.",
+        "tgt": "וגם עדשה אחרת.",
+        "score1": 0.6764,
+        "score2": 0.6764,
+        "sent1": "אה, ועדשה אחרת.\n",
+        "sent2": "אה, ועדשה אחרת.\n",
+        "analysis": "Okay, I understand. The context is \"Oh, and a different lens.\" and my task is to translate it into Hebrew, paying attention to potential translation challenges, especially idiomatic expressions. I will start with pre-drafting research, focusing on identifying any idiomatic expressions.\n\nIn this short phrase, there are no immediately obvious idiomatic expressions that would pose a major challenge. It seems quite literal. \"Oh\" is an interjection, \"and\" is a conjunction, \"a different\" is an adjective phrase and \"lens\" is a noun. Therefore, I don't foresee any idiomatic expression problems\n"
+    },
+    {
+        "src": "Oooh, thank you *so* much!! I really appreciate this!! 🙏",
+        "tgt": "או, תודה *רבה*!! אני מעריכה את זה מאוד!!",
+        "score1": 0.3637,
+        "score2": 0.356,
+        "sent1": "Okay, based on my research understanding the need to capture the enthusiasm and informality, here's my draft translation:\n\nווואו, תודה *רבה רבה*!! אני ממש מעריך/ה את זה!! 🙏\n",
+        "sent2": "אווו, תודה רבה *כל כך*!! אני ממש מעריך/ה את זה!! 🙏\n",
+        "analysis": "Okay, I understand. The context is a casual expression of gratitude, and I need to prepare to translate it into Hebrew, paying special attention to any potential idiomatic expressions. Let's start the research phase focusing on idiomatic expressions.\n\nThe key idiomatic expression here is \"Oooh, thank you *so* much!! I really appreciate this!! 🙏\".  While the individual words are simple, the *intensity* and *informality* are crucial parts of the message. The \"Oooh\" and the emphasized \"so\" (and the double exclamation points) all contribute to this. The 🙏 emoji also reinforces the feeling of gratitude.\n\nTherefore, the main challenge is finding Hebrew equivalents that capture the same level of enthusiasm and informality. A literal translation of \"thank you so much\" might not feel as genuine or heartfelt in Hebrew.\n\nI'm ready for the next step when you are.\n"
+    },
+    {
+        "src": "Or at least that is the plan.",
+        "tgt": "או לפחות זו התכנית.",
+        "score1": 0.9334,
+        "score2": 0.9334,
+        "sent1": "או שלפחות זאת התוכנית.\n",
+        "sent2": "או שלפחות זאת התוכנית.\n",
+        "analysis": "Okay, I understand. My task is to identify potential challenges in translating \"Or at least that is the plan\" into Hebrew, focusing specifically on idiomatic expressions. I will analyze the English phrase to see if it contains any idioms or figures of speech that might not have a direct equivalent in Hebrew. Let's begin.\n"
+    },
+    {
+        "src": "Or not. We'll see.",
+        "tgt": "או לא. נראה.",
+        "score1": 0.9552,
+        "score2": 0.9554,
+        "sent1": "או שלא. נראה.\n",
+        "sent2": "או שלא. נראה.\n",
+        "analysis": "Okay, I understand. The context is \"Or not. We'll see.\" and the goal of this stage is pre-drafting research focusing on identifying potential idiomatic expressions that require more than a word-for-word translation into Hebrew. Let's proceed.\n\nThe phrase \"We'll see\" is the primary candidate for idiomatic consideration. It's important to determine if a direct literal translation works in Hebrew or if a more nuanced expression is necessary to convey the intended meaning in the given context.\n"
+    },
+    {
+        "src": "Reversing the trend of jail deaths, and solving the many other issues facing our jails, may require some difficult policy decisions. However, independent oversight of jails is a critical first step toward a safer and more humane jail system. Independent oversight is a demonstrated means of improving transparency and accountability both in Washington and across the country. By our count, at least 25 states have a statewide office responsible for overseeing jails, and all of them have a lower rate of jail deaths than Washington.",
+        "tgt": "כדי להפחית את מקרי המוות בבתי הכלא, ולפתור בעיות רבות אחרות שאיתן מתמודדים בבתי הכלא, נדרשות החלטות מדיניות קשות. פיקוח עצמאי על בתי הכלא הוא צעד ראשון וקריטי לקראת מערכת כליאה בטוחה והומנית יותר. פיקוח עצמאי הוא אמצעי מוכח לשיפור השקיפות והאחריות גם בוושינגטון וגם ברחבי המדינה. לפי הנתונים שבידינו, לפחות ל-25 מדינות יש גוף שאחראי לפקח ברמת המדינה על בתי הכלא, ובכולן שיעור התמותה נמוך יותר מאשר בוושינגטון.",
+        "score1": 0.9158,
+        "score2": 0.9132,
+        "sent1": "היפוך מגמת מקרי המוות בבתי הכלא, ופתרון הבעיות הרבות האחרות העומדות בפני בתי הכלא שלנו, עשויים לדרוש החלטות מדיניות קשות. עם זאת, פיקוח עצמאי על בתי הכלא הוא צעד ראשון מכריע לקראת מערכת בתי כלא בטוחה והומנית יותר. פיקוח עצמאי הוא אמצעי מוכח לשיפור השקיפות והאחריותיות הן בוושינגטון והן ברחבי הארץ. לפי הספירה שלנו, לפחות ל-25 מדינות יש משרד ממלכתי האחראי על פיקוח על בתי הכלא, ולכולן יש שיעור נמוך יותר של מקרי מוות בבתי הכלא מאשר בוושינגטון.\n",
+        "sent2": "היפוך המגמה של מקרי מוות בבתי הכלא, ופתרון הבעיות הרבות האחרות העומדות בפני בתי הכלא שלנו, עשויים לדרוש החלטות מדיניות קשות. עם זאת, פיקוח עצמאי על בתי הכלא הוא צעד ראשון קריטי לקראת מערכת בתי כלא בטוחה והומאנית יותר. פיקוח עצמאי הוא אמצעי מוכח לשיפור השקיפות והאחריותיות הן בוושינגטון והן ברחבי המדינה. לפי ספירתנו, לפחות ל-25 מדינות יש משרד ארצי האחראי על פיקוח על בתי הכלא, ולכולן יש שיעור נמוך יותר של מקרי מוות בבתי הכלא מאשר לוושינגטון.\n",
+        "analysis": "Okay, I understand. I'm ready to begin the pre-drafting research for translating the provided English text into Hebrew, focusing specifically on identifying idiomatic expressions.\n\nHere's my analysis:\n\n*   **\"Reversing the trend\"**: While not strictly an idiom, it's a common English expression. In Hebrew, we need to consider the most natural way to express the *idea* of reversing a trend, rather than a literal word-for-word translation. Consider options like \"לשנות את המגמה\" (to change the trend) or \"להפוך את המגמה\" (to reverse the trend). The best choice depends on the overall flow and emphasis in Hebrew.\n\n*   **\"Across the country\"**: This means \"throughout the country\" or \"nationwide.\" Hebrew options include \"ברחבי הארץ\" (throughout the country) or \"בכל רחבי המדינה\" (throughout the state).\n\n*   **\"By our count\"**: This translates to \"according to our count,\" or \"according to our calculations.\" Hebrew options include: \"לפי הספירה שלנו\" (according to our counting/calculation), \"לפי הנתונים שלנו\" (according to our data).\n\nThis initial research highlights potential areas where a direct, word-for-word translation might not be the most effective. The goal is to find equivalents that sound natural and convey the intended meaning accurately in Hebrew. I'm ready for the next step!\n"
+    },
+    {
+        "src": "Rosendale was also among the 71 Republicans who opposed the Fiscal Responsibility Act struck between Democrats and former Speaker Kevin McCarthy, a deal that set the parameters for Johnson's recent negotiation with Senate Democratic Leader Charles Schumer.",
+        "tgt": "רוזנדייל היה בין 71 הרפובליקאים שהתנגדו לחוק האחריות הפיסקלית שנחתם בין הדמוקרטים ליושב הראש לשעבר, קווין מקארת'י, עסקה שקבעה את הפרמטרים למשא ומתן שניהל ג'ונסון לאחרונה עם מנהיג המפלגה הדמוקרטית בסנאט, צ'ארלס שומר.",
+        "score1": 0.9098,
+        "score2": 0.9098,
+        "sent1": "רוזנדייל היה גם בין 71 הרפובליקנים שהתנגדו לחוק האחריות הפיסקלית שנחתם בין הדמוקרטים לבין יושב הראש לשעבר קווין מקארתי, עסקה שקבעה את הפרמטרים למשא ומתן האחרון של ג'ונסון עם מנהיג הרוב הדמוקרטי בסנאט צ'ארלס שומר.\n",
+        "sent2": "רוזנדייל היה גם בין 71 הרפובליקנים שהתנגדו לחוק האחריות הפיסקלית שנחתם בין הדמוקרטים לבין יושב הראש לשעבר קווין מקארתי, עסקה שקבעה את הפרמטרים למשא ומתן האחרון של ג'ונסון עם מנהיג הרוב הדמוקרטי בסנאט צ'ארלס שומר.\n",
+        "analysis": "Okay, I understand. I will focus on identifying idiomatic expressions within the provided text and highlighting their potential challenges in translation to Hebrew. Here's what I've found:\n\n*   **\"Struck between...\"**: This refers to an agreement or deal that was negotiated and finalized. While not a super strong idiom, the specific verb choice \"struck\" in this context implies a formal agreement.\n*   **\"Set the parameters for...\"**: This means to define the limits or boundaries within which something can operate or be decided. It's a fairly common phrase, but important to recognize as a unit.\n\nThese expressions need careful consideration to ensure the Hebrew translation accurately conveys their intended meaning and tone within the context.\n"
+    },
+    {
+        "src": "Sally Rooney used to debate, and once you know that it is easy to see those techniques in both her novels and essays.",
+        "tgt": "סאלי רוני נהגה להתווכח, אבל אחרי שיודעים זה קל לראות את הטכניקות האלו ברומנים ובמאמרים שלה.",
+        "score1": 0.9183,
+        "score2": 0.9242,
+        "sent1": "סאלי רוני הייתה נוהגת להתווכח, וברגע שיודעים את זה, קל לראות את הטכניקות האלה גם ברומנים ובמאמרים שלה.\n",
+        "sent2": "סאלי רוני נהגה להתווכח, וברגע שיודעים את זה קל לראות את הטכניקות האלה גם ברומנים ובמאמרים שלה.\n",
+        "analysis": "Okay, I understand. Let's start the pre-drafting research focused on idiomatic expressions in the English text:\n\n**English Text:** \"Sally Rooney used to debate, and once you know that it is easy to see those techniques in both her novels and essays.\"\n\n**Idiomatic Expressions:**\n\n*   **\"used to\":** This expresses a past habit or state that is no longer true. While not strictly an idiom in the most restrictive sense, direct word-for-word translation can sound awkward in Hebrew. This will need careful attention.\n*   **\"easy to see\":** While seemingly straightforward, the nuance of ease might be better captured with phrasing that emphasizes clarity or obviousness.\n\n**Translation Plan for Idiomatic Expressions:**\n\n*   **\"used to\":** Instead of a literal translation, I'll explore options in Hebrew that explicitly convey the sense of a past habit or state. I'll consider constructions using the past tense of \"to be\" + infinitive, or adverbs/phrases that signify past habitual actions.\n\n*   **\"easy to see\":** I'll investigate Hebrew phrases that convey \"obvious,\" \"clear,\" or \"evident\" instead of just \"easy.\" The goal is to make the connection feel natural and readily apparent in Hebrew.\n\nThis research will inform my translation choices in the next phase. I'm ready when you are to proceed.\n"
+    },
+    {
+        "src": "Shifts in thought are harder to quantify than bank loans for rural women or school enrollment for girls. Yet there is plenty of evidence that female agency can move mountains. In Iran, for example, women have led the greatest threat to the Islamic government in 40 years simply by refusing to comply with laws that force them to cover their hair. In some of the 130 countries with minimum quotas for female representation in government, such as India, male resistance to female voting and political activism has eased.",
+        "tgt": "קשה יותר לכמת שינויים בהלך הרוח של נשים באזורי ספר, או הרשמה ללימודים של נערות, מאשר הלוואות של בנקים. אולם, קיימות עדויות רבות לכך ששיוויון מגדרי יכול להזיז הרים. באירן, לדוגמה, נשים הובילו את האיום הגדול ביותר על השילטון האיסלאמי במשך 40 שנה, כשהן סירבו לציית לחוקים שחייבו אותן לעטות כיסוי ראש. בחלק מ-130 המדינות שבהן יש שיעורי מינימום לייצוג נשי בממשל, כמו בהודו, ההתנגדות בקרב הגברים להצבעה ולפעילות פוליטית של נשים פחתה.",
+        "score1": 0.856,
+        "score2": 0.8614,
+        "sent1": "השינויים בחשיבה קשים יותר לכימות מאשר הלוואות בנקאיות לנשים כפריות או רישום לבתי ספר לבנות. עם זאת, ישנן עדויות רבות לכך שלסוכנות נשית יש יכולת להזיז הרים. באיראן, לדוגמה, נשים הובילו את האיום הגדול ביותר על הממשלה האסלאמית מזה 40 שנה, פשוט על ידי סירוב לציית לחוקים שמכריחים אותן לכסות את שערן. בחלק מ-130 המדינות עם מכסות מינימום לייצוג נשים בממשלה, כמו הודו, ההתנגדות הגברית להצבעה נשית ולפעילות פוליטית פחתה.\n",
+        "sent2": "שינויים בחשיבה קשים יותר לכימות מהלוואות בנקאיות לנשים כפריות או הרשמה לבתי ספר עבור בנות. עם זאת, ישנן עדויות רבות לכך שלנשים יש יכולת השפעה עצומה. באיראן, לדוגמה, נשים הובילו את האיום הגדול ביותר על הממשלה האסלאמית מזה 40 שנה, פשוט על ידי סירוב לציית לחוקים שמחייבים אותן לכסות את שיערן. בחלק מ-130 המדינות עם מכסות מינימום לייצוג נשים בממשלה, כמו הודו, התנגדות גברית להצבעה נשית ולפעילות פוליטית פחתה.\n",
+        "analysis": "Okay, I understand. I will analyze the provided text to identify any idiomatic expressions that might pose a challenge during translation into Hebrew. I will focus on expressions where a literal translation would not convey the intended meaning or sound unnatural in Hebrew.\n\nHere's my analysis for the Idiomatic Expressions category:\n\n*   **\"female agency can move mountains\"**: This is an idiomatic expression. A literal translation might not resonate with the same strength and meaning in Hebrew. We need to find an equivalent expression in Hebrew that captures the idea of female agency having a powerful and transformative impact.\n\nI'm ready for the next stage when you are.\n"
+    },
+    {
+        "src": "Since there is no electricity in the garden, the whole thing is powered by a solar panel and a 2600mAh 18650 cell.",
+        "tgt": "מאחר שאין חשמל בגינה, הכל מקבל כוח מפאנל סולארי ותא 2600mAh 18650.",
+        "score1": 0.9083,
+        "score2": 0.9173,
+        "sent1": "בהיעדר חשמל בגינה, כל העסק מופעל על ידי פאנל סולארי ותא 18650 בקיבולת 2600mAh.\n",
+        "sent2": "בהיעדר חשמל בגינה, כל המערכת מופעלת על ידי פאנל סולארי ותא 18650 בקיבולת 2600mAh.\n",
+        "analysis": "Okay, I understand. The context is: \"Since there is no electricity in the garden, the whole thing is powered by a solar panel and a 2600mAh 18650 cell.\"\n\nMy task is to perform pre-drafting research specifically focusing on potential translation challenges when translating this into Hebrew, with a focus on identifying idiomatic expressions.\n\nHere's what I've found:\n\n**Idiomatic Expressions:**\n\n*   The phrase \"the whole thing\" could potentially be translated in different ways depending on what \"thing\" refers to. It could be a system, a set up, a device, etc. We need to understand the context of what \"thing\" is in order to accurately define it in Hebrew.\n\nI'm now ready for the next stage. I will translate once ready.\n"
+    },
+    {
+        "src": "So I guess I'll have to wait till tomorrow to figure out if it actually is enough for this setup or If I need the better panel I ordered.",
+        "tgt": "אז נראה לי שאצטרך לחכות עד מחר כדי להבין אם זה מספיק למערך הזה או אם אצטרך את הפאנל הטוב יותר שהזמנתי.",
+        "score1": 0.9134,
+        "score2": 0.9195,
+        "sent1": "אז אני מניח שאצטרך לחכות עד מחר כדי לברר אם זה באמת מספיק למערכת הזו או אם אני צריך את הפאנל הטוב יותר שהזמנתי.\n\nHere's the breakdown of the choices made:\n\n*   **\"So I guess\"**: Translated as \"אז אני מניח\" (*az ani mani'akh*) - This is a direct and common way to express \"so I guess\" in Hebrew.\n*   **\"I'll have to wait till tomorrow\"**: Translated as \"שאצטרך לחכות עד מחר\" (*she'etzterekh lekhakot ad machar*) - A straightforward translation of the phrase.\n*   **\"to figure out\"**: Translated as \"כדי לברר\" (*kedei le'varer*) - I chose *לברר (levarer)* (to clarify) because it best captures the sense of investigating or ascertaining whether something is sufficient. Other options like *להבין (le'havin)* (to understand) might be too general.\n*   **\"if it actually is enough\"**: Translated as \"אם זה באמת מספיק\" (*im ze be'emet maspik*) - A direct translation that maintains the emphasis of \"actually.\"\n*   **\"for this setup\"**: Translated as \"למערכת הזו\" (*lama'arekhet hazot*) - I chose *מערכת (ma'arekhet)* (system) as a general term for \"setup,\" assuming it refers to a configuration of equipment. The addition of \"הזו\" (hazot) - \"this\" makes it fit the english.\n*   **\"or if I need the better panel I ordered\"**: Translated as \"או אם אני צריך את הפאנל הטוב יותר שהזמנתי\" (*o im ani tzarikh et ha'panel hatov yoter she'hizmanneti*) - A direct translation of the phrase.\n\n*Therefore, the complete draft translation is:*\n\nאז אני מניח שאצטרך לחכות עד מחר כדי לברר אם זה באמת מספיק למערכת הזו או אם אני צריך את הפאנל הטוב יותר שהזמנתי.\n",
+        "sent2": "אז אני מניח שאצטרך לחכות עד מחר כדי להבין אם זה באמת מספיק למערכת הזו או אם אני צריך את הפאנל הטוב יותר שהזמנתי.\n",
+        "analysis": "Okay, I understand. My task is to identify and research potential translation challenges in the English text provided, specifically focusing on idiomatic expressions that might not have a direct equivalent in Hebrew. I will then use this research to inform the upcoming translation stages. Let's begin!\n\nThe text is: \"So I guess I'll have to wait till tomorrow to figure out if it actually is enough for this setup or if I need the better panel I ordered.\"\n\nHere's my pre-drafting research:\n\n*   **Idiomatic Expressions:**\n\n    *   **\"figure out\"**: This is a phrasal verb meaning \"to understand\" or \"to solve.\" While there are literal translations for \"understand,\" the best Hebrew equivalent will depend on the specific nuance in this context. Options include: *להבין (le'havin)* - to understand, *לגלות (legalot)* - to discover, *לבדוק (livdok)* - to check, *לברר (levarer)* - to clarify. I will need to consider to which of the list the context refers when translating.\n    *   **\"setup\"**: While not strictly an idiom, the word \"setup\" can have different meanings. In this context, it likely refers to a system or configuration of equipment. The appropriate Hebrew translation depends on the specific type of setup being discussed. Options include: *מערכת (ma'arekhet)* - system, *תצורה (tzura)* - configuration, *הגדרות (hagdarot)* - settings.\n    *   **\"better panel\"**: \"Better\" in this case doesn't require significant idiomatic consideration, but identifying *which* panel is crucial.\n\nThis research helps me anticipate the need for more nuanced choices during the translation process. Specifically, I'll pay close attention to the exact meaning of \"figure out\" and \"setup\" in this context to choose the most appropriate Hebrew equivalents.\n\nI'm ready for the next step!\n"
+    },
+    {
+        "src": "So either there's something wrong with this panel or my multimeter, or they changed the listing.",
+        "tgt": "אז או שיש משהו פגום עם הפאנל הזה, או עם המולטימטר שלי, או ששינו את הפרטים בדף המוצר.",
+        "score1": 0.8629,
+        "score2": 0.8687,
+        "sent1": "אז או שמשהו לא בסדר בפאנל הזה או במולטימטר שלי, או שהם שינו את הרישום.\n",
+        "sent2": "אז או שמשהו לא בסדר בפאנל הזה, או במולטימטר שלי, או שהם שינו את הרישום.\n",
+        "analysis": "Okay, I understand. The context is: \"So either there's something wrong with this panel or my multimeter, or they changed the listing.\" I need to prepare a translation plan focusing on idiomatic expressions that might be problematic when translating into Hebrew.\n\nLet's analyze the text for potential idiomatic expressions:\n\n*   **\"something wrong with\"**: This is a common phrase, but not necessarily idiomatic in a way that's impossible to translate directly. However, there might be more natural or nuanced ways to express this in Hebrew depending on the specific nuance desired.\n\nTherefore, based on my research, the translation plan focuses on the following:\n\n**Translation Plan:**\n\n*   **\"something wrong with\"**: Investigate alternative Hebrew phrases to express \"something is wrong\" that might be more natural-sounding in Hebrew. Consider options like:\n    *   יש בעיה ב... (yesh be'aya b...) - \"There is a problem with...\"\n    *   לא תקין (lo takin) - \"Not working properly\" / \"Defective\"\n    *   מקולקל (mekulkál) - \"Broken\" / \"Damaged\"\n\nThis pre-drafting research helps identify the potential challenge and provides a starting point for finding appropriate solutions during the translation process. I'm ready for the next stage!\n"
+    },
+    {
+        "src": "Speaking on behalf of Edu, Rasheed Zubair, her media aide, asserts that the act is legal within the framework of the Nigerian civil service. However, it is crucial to note that the request violates various sections of Nigeria's Financial Regulations 2009, which explicitly prohibit fraud and other forms of corruption in government business. Additionally, Chapter Seven, Section 713 of Nigeria's Financial Regulations 2009 explicitly states, \"Personal money shall in no circumstances be paid into a government bank account, nor shall any public money be paid into a private account.\" It further stipulates, \"Any officer who pays public money into a private account is deemed to have done so with fraudulent intention.\"",
+        "tgt": "ראשיד זובייר, עוזר המדיה של אדו, טען בשמה שהפעולה חוקית במסגרת השירות האזרחי הניגרי. אבל, צריך לציין שהבקשה מפירה סעיפים מסוימים של תקנות הכספים של ניגריה משנת 2009, שאוסרים במפורש הונאה ומעשי שחיתות אחרים בעסקים ממשלתיים. בנוסף, בסעיף 713 (7) בתקנות הכספים של ניגריה משנת 2009, מצוין במפורש ש\"כסף אישי לא ישולם בשום אופן לחשבון בנק ממשלתי, וכן לא ישולם כסף ציבורי לחשבון פרטי\". עוד מצוין בסעיף ש\"כל עובד ציבור שמשלם כספים ציבוריים לחשבון פרטי ייחשב שעשה זאת בכוונת מרמה.\"",
+        "score1": 0.8824,
+        "score2": 0.8802,
+        "sent1": "בשם אדו, רשיד זובייר, עוזר התקשורת שלה, טוען שהמעשה חוקי במסגרת שירות המדינה הניגרי. עם זאת, חשוב לציין שהבקשה מפרה סעיפים שונים בתקנות הכספים של ניגריה משנת 2009, האוסרות במפורש על הונאה וצורות אחרות של שחיתות בעסקי ממשל. בנוסף, פרק שבע, סעיף 713 לתקנות הכספים של ניגריה משנת 2009 קובע במפורש: \"בשום נסיבות אסור להפקיד כסף אישי לחשבון בנק ממשלתי, וגם אסור להפקיד כסף ציבורי לחשבון פרטי.\" עוד נקבע כי \"כל גורם רשמי שמפקיד כסף ציבורי לחשבון פרטי ייחשב כמי שעשה זאת מתוך כוונה לרמות.\"\n",
+        "sent2": "בשם אדו, רשיד זוביר, עוזר התקשורת שלה, טוען שהמעשה חוקי במסגרת שירות המדינה הניגרי. עם זאת, חשוב לציין שהבקשה מפרה סעיפים שונים בתקנות הכספים של ניגריה משנת 2009, האוסרות במפורש על הונאה וצורות אחרות של שחיתות בעסקי ממשלה. בנוסף, פרק שבע, סעיף 713 בתקנות הכספים של ניגריה משנת 2009 קובע במפורש: \"בשום נסיבות אין להפקיד כסף אישי לחשבון בנק ממשלתי, ואין להפקיד כסף ציבורי לחשבון פרטי.\" עוד נקבע כי \"כל פקיד המפקיד כסף ציבורי לחשבון פרטי ייחשב כמי שעשה זאת בכוונה הונאה.\"\n",
+        "analysis": "Okay, I understand. Before I begin translating, I need to conduct pre-drafting research, specifically focusing on potentially problematic idiomatic expressions within the provided text that might not have direct equivalents in Hebrew.\n\nHere's my initial analysis, focusing on potential idioms:\n\n*   **\"Speaking on behalf of...\"**: While seemingly straightforward, the best Hebrew equivalent might depend on the nuance. Consider options like \"בשם\" (beshem - in the name of), \"מטעם\" (mi-ta'am - on behalf of), or a more descriptive phrase depending on the exact meaning in the context.\n*   **\"Within the framework of...\"**: This is a common phrase, and Hebrew offers a few options. Depending on the specific emphasis, we could use \"במסגרת של\" (be-misgeret shel) or \"בתוך מסגרת ה...\" (betoch misgeret ha...). Context will dictate the most natural choice.\n*   **\"Crucial to note\"**: Could also be translated to חשוב לציין, which is ‘important to mention’\n*   **\"Deemed to have done so with fraudulent intention\"**: This is a legalistic phrase. A direct translation might sound awkward. We need to find a Hebrew equivalent that captures the legal implication of presumed intent. Consider terms like \"רואים אותו כמי שפעל מתוך כוונה לרמות\" (ro'im oto kemei she-pa'al mitoch kavana le-ramot - they see him as someone who acted with the intention to deceive) or a more concise legal term if available.\n\nNext steps would be to confirm the best equivalents for these phrases within the specific legal and administrative context of the text and ensure they accurately convey the original meaning in Hebrew.\n"
+    },
+    {
+        "src": "Still offline.",
+        "tgt": "עדיין כבוי.",
+        "score1": 0.7907,
+        "score2": 0.7907,
+        "sent1": "עדיין לא מקוון.\n",
+        "sent2": "עדיין לא מקוון.\n",
+        "analysis": "Okay, I understand. My task is to prepare for translating the phrase \"Still offline\" into Hebrew, focusing on potential challenges and planning for them. Specifically, I need to research if there are idiomatic expressions related to being \"offline\" that I need to be aware of for a more accurate and natural translation. Let's begin the research.\n\nWhile \"Still offline\" is fairly straightforward, the nuances of *how* something is offline can influence the best translation. I'll research the common ways of expressing \"offline\" in Hebrew in different contexts, such as:\n\n*   **Technical devices:** Computers, phones, etc. (related to internet connection)\n*   **General availability:** Someone being unreachable or unavailable.\n\nThis will give us a solid foundation for the next stage.\n"
+    },
+    {
+        "src": "Superbooth Berlin (just an attendee)",
+        "tgt": "Superbooth Berlin (רק כמשתתף)",
+        "score1": 0.6968,
+        "score2": 0.6968,
+        "sent1": "סופרבוט ברלין (רק משתתף)\n",
+        "sent2": "סופרבוט ברלין (רק משתתף)\n",
+        "analysis": "Okay, I understand. I'm ready to start the pre-drafting research with a focus on any idiomatic expressions in the context \"Superbooth Berlin (just an attendee)\" that might pose a translation challenge when translating into Hebrew. Let's break it down:\n\n*   **Superbooth Berlin:** This is the name of a specific event. Generally, proper nouns like this are transliterated rather than translated.\n\n*   **just an attendee:** This phrase means someone who is simply present at the event, not a speaker, organizer, exhibitor, etc.\n\nTherefore, considering the above, there aren't any idiomatic expressions here that would be difficult to translate word-for-word into Hebrew. \"Just an attendee\" can be rendered fairly directly. I am ready to proceed to the next phase as necessary.\n"
+    },
+    {
+        "src": "That is almost a bummer because I was planning on mounting a TP-Link cpe210 on the roof and having it point downwards to the garden.",
+        "tgt": "וזה כמעט מבאס כי תכננתי להתקין TP-Link cpe210 על הגג שיפנה למטה לגינה.",
+        "score1": 0.917,
+        "score2": 0.9245,
+        "sent1": "זה כמעט באסה כי תכננתי להתקין TP-Link cpe210 על הגג ולכוון אותו כלפי מטה לגינה.\n",
+        "sent2": "זה כמעט מבאס כי תכננתי להתקין TP-Link cpe210 על הגג ולהפנות אותו כלפי מטה לגינה.\n",
+        "analysis": "Okay, I understand. My task is to perform pre-drafting research on the English sentence: \"That is almost a bummer because I was planning on mounting a TP-Link cpe210 on the roof and having it point downwards to the garden,\" with the specific goal of identifying idiomatic expressions that might be problematic when translated into Hebrew.\n\nHere's my research focused on idiomatic expressions:\n\n*   **\"a bummer\"**: This is a moderately informal idiom meaning something disappointing or unfortunate. It's crucial to find a Hebrew equivalent that conveys the same level of disappointment and informality (or decides if it needs to be more formal).\n"
+    },
+    {
+        "src": "The World Bank cites other examples. From 1970 to 2022, Bangladesh quadrupled female literacy rates and doubled female participation in the labor force. Its gross domestic product more than tripled. The change gathered its own momentum. Recruiting salaried women as teachers and health workers from within their own communities boosted trust \"and made women's mobility and work more socially acceptable.\"",
+        "tgt": "בבנק העולמי מציינים דוגמאות נוספות. משנת 1970 ועד 2022, השיעור של אוכלוסיית הנשים שיודעות קרוא וכתוב בבנגלדש עלה פי ארבעה, ומספר הנשים בשוק העבודה גדל פי שניים. התל\"ג צמח ביותר מפי שלושה ומגמת השינוי נמשכת. גיוס נשים למשרות בתשלום, כמו מורות ועובדות רפואה בקהילות שלהן, הגביר את האמון \"והפך את המוביליות החברתית וההשתתפות של הנשים בשוק העבודה למקובלות יותר\".",
+        "score1": 0.8766,
+        "score2": 0.8772,
+        "sent1": "הבנק העולמי מציין דוגמאות אחרות. משנת 1970 עד 2022, בנגלדש הכפילה פי ארבעה את שיעורי האוריינות של הנשים והכפילה את השתתפותן של הנשים בכוח העבודה. התוצר המקומי הגולמי שלה גדל יותר מפי שלושה. השינוי צבר תאוצה משלו. גיוס נשים בשכר כמורות ועובדות בריאות מתוך הקהילות שלהן חיזק את האמון \"והפך את הניידות והעבודה של נשים למקובלות יותר מבחינה חברתית.\"\n",
+        "sent2": "הבנק העולמי מציין דוגמאות נוספות. בין השנים 1970 ל-2022, בנגלדש הכפילה פי ארבעה את שיעורי האוריינות בקרב נשים והכפילה את השתתפותן של נשים בכוח העבודה. התוצר המקומי הגולמי שלה שילש את עצמו יותר מפי שלושה. השינוי צבר תאוצה משלו. גיוס נשים בשכר בתור מורות ועובדות בריאות מתוך הקהילות שלהן הגביר את האמון \"וגרם לניידות ולעבודה של נשים להיות מקובלות יותר מבחינה חברתית.\"\n",
+        "analysis": "Okay, I understand. My task is to identify any idiomatic expressions in the provided context that would present a challenge when translating directly into Hebrew. Here's what I've found:\n\n*   **\"gathered its own momentum\"**: This phrase describes a process gaining speed or strength independently. While not strictly an idiom, a direct word-for-word translation might sound awkward or unnatural in Hebrew. We need to find a Hebrew phrase that conveys the same sense of a process becoming self-sustaining and accelerating.\n"
+    },
+    {
+        "src": "The World Bank hopes to spread that message.",
+        "tgt": "בבנק העולמי שואפים להפיץ את המסר הזה.",
+        "score1": 0.9429,
+        "score2": 0.9429,
+        "sent1": "הבנק העולמי מקווה להפיץ את המסר הזה.\n",
+        "sent2": "הבנק העולמי מקווה להפיץ את המסר הזה.\n",
+        "analysis": "Okay, I understand. My task is to identify any idiomatic expressions in the English context \"The World Bank hopes to spread that message\" that will pose a translation challenge when rendered into Hebrew. I will focus on expressions that cannot be directly translated word-for-word.\n"
+    },
+    {
+        "src": "The lander is about the size of old UK telephone box...",
+        "tgt": "הגודל של רכב הנחיתה הוא בערך הגודל של תא טלפון באנגליה...",
+        "score1": 0.7643,
+        "score2": 0.7643,
+        "sent1": "הנחתת היא בערך בגודל של תא טלפון בריטי ישן...\n",
+        "sent2": "הנחתת היא בערך בגודל של תא טלפון בריטי ישן...\n",
+        "analysis": "Okay, I understand. My task is to identify any idiomatic expressions in the English text \"The lander is about the size of old UK telephone box...\" that might pose a challenge when translating to Hebrew and need special attention during the translation process.\n\nHere's what I've identified:\n\n*   **\"the size of old UK telephone box\"**: This is the most likely idiomatic expression. While it's a descriptive comparison, it relies on the reader's *cultural understanding* of the typical size of a UK telephone box (specifically a *red* telephone box, though that isn't explicitly stated). Simply translating this literally might not convey the same sense of scale to a Hebrew speaker who may not be familiar with the iconic UK telephone box. Therefore, it becomes crucial to research the best way to represent the approximate size in a way that resonates with a Hebrew-speaking audience.\n"
+    },
+    {
+        "src": "The problems at the EPA are distinct but not unrelated to those at the Department of Justice, which handles environmental crimes via its Environment and Natural Resources Division, or ENRD. Prior to joining the EPA, Uhlmann - the EPA assistant secretary for enforcement - had served as the longtime head of that division's Environmental Crimes Section, from 1990 through 2007. The EPA sends its most serious civil and criminal cases to ENRD, which - as a relatively underfunded office - often relies on other agencies in helping to choose which fights to take on. In fiscal year 2022, the EPA deferred fewer cases to DOJ (88) than at any point since 2000 and concluded fewer civil judicial cases than it had since that time, as well. As the Environmental Integrity Project notes, even Trump's EPA concluded 94 civil cases and deferred 106 cases per year to the DOJ per year, on average.",
+        "tgt": "הבעיות בסוכנות להגנת הסביבה הן ייחודיות, אבל הן כן קשורות לאלה הקיימות במשרד המשפטים, שמטפל בפשעים נגד הסביבה באמצעות המחלקה שלו למשאבי סביבה וטבע (ENRD). לפני שהצטרף לסוכנות להגנת הסביבה, אולמן, עוזר השר לאכיפה בסוכנות לאיכות הסביבה, היה במשך זמן רב ראש האגף למלחמה בפשעים נגד הסביבה באותה מחלקה, מ-1990 עד 2007. הסוכנות לאיכות הסביבה שולחת את התיקים האזרחיים והפליליים החמורים ביותר שלה ל-ENRD, שכמחלקה בעלת תקציב קטן יחסית, מרבה להסתמך על סוכנויות אחרות לעזרה בבחירת התיקים שבהם כדאי להילחם. בשנת הכספים של 2022, הסוכנות לאיכות הסביבה העבירה את המספר הכי נמוך של תיקים (88) למשרד המשפטים מאז שנת 2000, וגם סגרה פחות תיקים אזרחיים מאז. כמו שצויין בפרויקט ליושרה סביבתית, אפילו בקדנציה של טראמפ הסוכנות לאיכות הסביבה סגרה 94 תיקים אזרחיים והעבירה 106 תיקים בממוצע כל שנה למשרד המשפטים.",
+        "score1": 0.8718,
+        "score2": 0.8797,
+        "sent1": "הבעיות בסוכנות להגנת הסביבה (EPA) נפרדות אך לא בלתי קשורות לאלה שבמשרד המשפטים, המטפל בפשעים סביבתיים באמצעות המחלקה לסביבה ומשאבי טבע שלו, או ENRD. לפני שהצטרף לסוכנות להגנת הסביבה, אולמן - עוזר מזכיר הסוכנות להגנת הסביבה לאכיפה - כיהן כראש הוותיק של מדור הפשעים הסביבתיים של מחלקה זו, משנת 1990 עד 2007. הסוכנות להגנת הסביבה שולחת את התיקים האזרחיים והפליליים החמורים ביותר שלה ל-ENRD, אשר - כמשרד בתת-מימון יחסי - נסמך לעתים קרובות על סוכנויות אחרות בסיוע בבחירת באילו מאבקים לבחור. בשנת הכספים 2022, הסוכנות להגנת הסביבה דחתה פחות תיקים למשרד המשפטים (88) מאשר בכל נקודה מאז שנת 2000 וסיימה גם כן פחות תיקים משפטיים אזרחיים ממה שהיו לה מאז אותה תקופה. כפי שמציין פרויקט יושרה סביבתית, אפילו הסוכנות להגנת הסביבה של טראמפ סיימה 94 תיקים אזרחיים ודחתה 106 תיקים בשנה למשרד המשפטים בשנה, בממוצע.\n",
+        "sent2": "הבעיות בסוכנות להגנת הסביבה (EPA) הן נפרדות אך לא בלתי קשורות לאלו שבמשרד המשפטים, המטפל בפשעים סביבתיים באמצעות המחלקה לאיכות הסביבה ומשאבי הטבע (ENRD). לפני שהצטרף לסוכנות להגנת הסביבה, אולמן – עוזר מזכיר ה-EPA לאכיפה – שימש כראש מדור הפשעים הסביבתיים של מחלקה זו במשך תקופה ארוכה, משנת 1990 עד 2007. ה-EPA שולחת את התיקים האזרחיים והפליליים החמורים ביותר שלה ל-ENRD, אשר - כמשרד בתת-מימון יחסי - מסתמכת לעתים קרובות על סוכנויות אחרות בסיוע בבחירת באילו מאבקים לקחת חלק. בשנת הכספים 2022, ה-EPA העבירה פחות תיקים למשרד המשפטים (88) מבכל נקודת זמן מאז 2000, וסיימה פחות תיקים משפטיים אזרחיים משהיו לה מאז אותה תקופה, גם כן. כפי שמציין פרויקט יושרה סביבתית, אפילו ה-EPA של טראמפ סיימה 94 תיקים אזרחיים והעבירה 106 תיקים בשנה למשרד המשפטים בממוצע.\n",
+        "analysis": "Okay, I understand. I will analyze the provided English text and identify any idiomatic expressions that would pose a problem for direct translation into Hebrew. This will form the basis of my translation plan. Here's what I've found:\n\n*   **\"Which fights to take on\"**: This is an idiomatic expression that means \"which battles/cases to pursue or prioritize.\" A direct word-for-word translation would not convey the intended meaning naturally in Hebrew.\n"
+    },
+    {
+        "src": "There were plenty of warnings from all involved in the housing sector that this would happen, but these went unheeded. An unwillingness to believe that market forces are what dictates prices rather than government has led to enormous rent price rises which could have been avoided with greater understanding, negotiation and discussion with the sector and a plan that understood the principles of supply and demand.",
+        "tgt": "הושמעו הרבה אזהרות של כל המעורבים שכך יהיה לגבי מגזר המגורים, אבל הן לא זכו לתשומת לב. חוסר הנכונות להאמין שכוחות השוק הם אלו שמכתיבים את המחירים ולא הממשלה, הוביל לעלייה העצומה בדמי השכירות, עלייה שניתן היה למנוע על ידי הבנה טובה יותר, ניהול משא ומתן ושיחות עם המגזר וגיבוש תוכנית שמבוססת על הבנת עקרונות ההיצע והביקוש.",
+        "score1": 0.875,
+        "score2": 0.8691,
+        "sent1": "היו שפע של אזהרות מכל העוסקים בתחום הדיור שזה יקרה, אבל האזהרות הללו לא נענו. חוסר רצון להאמין שכוחות השוק הם אלה שמכתיבים את המחירים ולא הממשלה הוביל לעליות מחירים עצומות בשכר הדירה, שהיה אפשר להימנע מהן באמצעות הבנה, משא ומתן ודיון גדולים יותר עם המגזר ותוכנית שהבינה את עקרונות ההיצע והביקוש.\n",
+        "sent2": "היו שפע של אזהרות מצד כל העוסקים בתחום הדיור שזה יקרה, אך הן לא נענו. חוסר רצון להאמין שכוחות השוק הם אלו שמכתיבים את המחירים ולא הממשלה הוביל לעליית מחירים עצומה בשכר הדירה שיכלה להימנע באמצעות הבנה, משא ומתן ודיון גדולים יותר עם המגזר ותוכנית שהבינה את עקרונות ההיצע והביקוש.\n",
+        "analysis": "Okay, I understand. My task is to identify any idiomatic expressions in the English text that will pose a challenge when translating into Hebrew. I will focus on finding phrases with figurative meanings that don't have a direct equivalent in Hebrew and would require a different approach to convey the same meaning.\n\nHere's what I've identified from the text:\n\n*   **\"went unheeded\"**: This means the warnings were ignored or not listened to. While a literal translation is possible, it might not have the same impact in Hebrew. We need to consider a more natural-sounding way to express the idea of ignoring warnings.\n\nI'm ready for the next step in the translation plan.\n"
+    },
+    {
+        "src": "They are so not the books i would have picked up myself, but once i did, it is clear that the craft is definitely beyond reproach. And i do like characters having long conversations, superbly aware of their political roles and yet ignorant to their emotional needs. Part of growing up.",
+        "tgt": "אלו לא ספרים שהייתי בוחרת בעצמי, אבל אחרי שקראתי אותם, אני מבינה שהם כתובים מצוין. אני אוהבת דמויות שעורכות שיחות ארוכות, ערות מאוד לתפקידן הפוליטי אבל בורות לגבי הצרכים הרגשיים שלהן. חלק מההתבגרות.",
+        "score1": 0.8628,
+        "score2": 0.8653,
+        "sent1": "הם ממש לא הספרים שהייתי בוחר/ת בעצמי, אבל אחרי שבחרתי אותם, ברור שהאומנות היא ללא ספק מעבר לכל ביקורת. ואני כן אוהב/ת דמויות שמנהלות שיחות ארוכות, מודעות מאוד לתפקידים הפוליטיים שלהן ועדיין בורות לצרכים הרגשיים שלהן. חלק מההתבגרות.\n",
+        "sent2": "אלה ממש לא הספרים שהייתי בוחר בעצמי, אבל ברגע שבחרתי, ברור שהאומנות היא ללא דופי בהחלט. ואני אוהב דמויות שמנהלות שיחות ארוכות, מודעות היטב לתפקידים הפוליטיים שלהן ועדיין מתעלמות מהצרכים הרגשיים שלהן. חלק מההתבגרות.\n",
+        "analysis": "Okay, I understand. The goal is to identify potential translation challenges within the English text, specifically focusing on idiomatic expressions that might not have a direct equivalent in Hebrew. Let's break down the provided context:\n\nContext: \"They are so not the books i would have picked up myself, but once i did, it is clear that the craft is definitely beyond reproach. And i do like characters having long conversations, superbly aware of their political roles and yet ignorant to their emotional needs. Part of growing up.\"\n\nHere's my research on idiomatic expressions:\n\n*   **\"They are so not the books I would have picked up myself\"**: This phrase expresses a strong personal preference, indicating the speaker wouldn't normally choose these books. The challenge lies in conveying this nuanced aversion in Hebrew without sounding awkward or unnatural. A more literal translation might miss the emphasis on the speaker's initial reluctance.\n\n*   **\"beyond reproach\"**: This implies that the quality or skill (in this case, \"the craft\") is undeniably excellent and cannot be criticized. Finding a Hebrew equivalent that carries the same weight of unquestionable quality is important.\n\n*   **\"Part of growing up\"**: While seemingly simple, consider the nuances of growth and maturity.\n\nThis pre-drafting research will help me make informed decisions when I begin the Hebrew translation. I'm now ready for the next stage.\n"
+    },
+    {
+        "src": "They’re hiding in big Sainsbury’s at Haringey Green Lanes.",
+        "tgt": "הן מוסתרות בסניף הגדול של Sainsbury ב-Haringey Green Lanes.",
+        "score1": 0.7796,
+        "score2": 0.781,
+        "sent1": "הם מתחבאים בסניף גדול של סיינסבורי'ס בהארינגיי גרין ליין.\n\n(Hem mitkhaba'im be-snif gadol shel Sainsburys be-Haringey Green Lanes.)\n",
+        "sent2": "הם מתחבאים בסניף הגדול של סיינסבורי'ס בהארינגיי גרין ליין.\n",
+        "analysis": "Okay, I understand. My task is to research the provided English text (\"They’re hiding in big Sainsbury’s at Haringey Green Lanes\") to identify potential translation challenges, specifically focusing on idiomatic expressions that won't translate directly into Hebrew. While this specific sentence doesn't appear to contain strong idioms, I will look for any nuances or culturally specific references that might need careful consideration.\n\nHere's my research:\n\n*   **Idiomatic Expressions:** The sentence is quite literal. There are no obvious idioms *within the sentence itself*. However, the *situation* implied by the sentence might lead to idiomatic expressions when describing it. For instance, if the context suggests the people are playing hide-and-seek, or hiding from someone specific (authorities, enemies, etc.), then the *way* the hiding is described in Hebrew might become idiomatic.\n\n    *   Therefore, I will pay attention for ways that words like \"hiding\" might be expressed in Hebrew, depending on the context of the hiding (e.g., playing hide-and-seek vs. evading capture).\n\nTherefore, while the sentence itself is not heavily laden with idioms, the nuances of \"hiding\" and the broader context need to be considered for a natural and appropriate translation. I am ready for the next stage.\n"
+    },
+    {
+        "src": "This is the state of my upstairs bathroom right now.",
+        "tgt": "זה המצב עכשיו של המקלחת שלי בקומה העליונה.",
+        "score1": 0.8751,
+        "score2": 0.8784,
+        "sent1": "זה המצב של חדר האמבטיה שלי למעלה כרגע.\n\n",
+        "sent2": "זה המצב של השירותים בקומה העליונה שלי כרגע.\n",
+        "analysis": "Okay, I understand. The context is \"This is the state of my upstairs bathroom right now,\" and I need to prepare to translate it into Hebrew. My first task is to identify any idiomatic expressions that might cause problems if translated literally.\n\nIn this specific sentence, I don't see any obvious idiomatic expressions. It's a fairly straightforward statement of fact. The potential challenge might lie more in choosing the most natural and common way to express \"state\" and \"upstairs bathroom\" in Hebrew. But idiomatically, it seems clear.\n\nSo, to summarize, based on the provided sentence and context, I don't anticipate any issues with idiomatic expressions. However, I will need to consider the nuances of how \"state\" and \"upstairs bathroom\" are typically expressed in Hebrew to ensure a natural-sounding translation. I'm ready for the next stage.\n"
+    },
+    {
+        "src": "This is why I don't delete old emails.",
+        "tgt": "בגלל זה חשוב לא למחוק אימיילים ישנים.",
+        "score1": 0.8674,
+        "score2": 0.8635,
+        "sent1": "הנה הסיבה שאני לא מוחק מיילים ישנים.\n",
+        "sent2": "לכן אני לא מוחק מיילים ישנים.\n",
+        "analysis": "Okay, I understand. The context is \"This is why I don't delete old emails.\" I need to translate this into Hebrew, but first, I need to do some pre-drafting research, specifically focusing on identifying idiomatic expressions.\n\nLet's analyze:\n\n*   The phrase \"This is why\" is a common expression. We need to find the most natural and equivalent way to express cause and effect in Hebrew in this context.\n*   \"I don't delete\" is fairly straightforward, but we should be mindful of the tone and register in Hebrew when expressing a negative action. \"Old emails\" is not problematic, but we want to make sure it sounds natural within the context.\n\nNow, let's move on to the next stage, the draft translation.\n"
+    },
+    {
+        "src": "Thus, we had the introduction of the Cost of Living (Tenant protection) (Scotland) Act 2022 nearly 18 months ago which sought to cap rents for a limited period to ease the pressures of the cost-of-living crisis. What we find now from the latest Scottish Government statistics is that, in the last year alone, average rents have increased in all sized properties, ranging from the lowest rise of 11.7 per cent for one-bedroom to the highest figure of 14.3 per cent for two-bedroom homes. Every type of property (from one to four bedroom to a room in a property) has had a double digit increase in rents since the Cost of Living legislation was introduced in October 2022, exceeding the annual average increases in rents over the previous 12 years by a factor of at least three.",
+        "tgt": "לפני שנה וחצי, ב-2022, הצגנו את חוק עלות המחיה (הגנת דיירים בסקוטלנד), שהמטרה שלו היא להגביל את שכר הדירה לתקופה מוגבלת כדי להקל על יוקר המחיה. מה שגילינו מהנתונים העדכניים של ממשלת סקוטלנד הוא שבשנה האחרונה בלבד, שכר הדירה הממוצע עלה בכל סוגי הנכסים – מעלייה של 11.7% לדירות עם חדר שינה אחד ועד 14.3% לדירות עם שני חדרי שינה. שכר הדירה בכל סוגי הנכסים (מחדר שינה אחד עד ארבעה חדרי שינה, וגם נכסים של חדר אחד בלבד) עלה במספר דו-ספרתי מאז שחוק עלות המחיה נכנס לתוקף באוקטובר 2022, פי שלושה לפחות מהעלייה השנתית הממוצעת בשכר הדירה ב-12 השנים האחרונות.",
+        "score1": 0.8511,
+        "score2": 0.8493,
+        "sent1": "הנה כך, לפני כ-18 חודשים הוצג חוק יוקר המחיה (הגנת הדייר) (סקוטלנד) 2022, שנועד לתקרה את שכר הדירה לתקופה מוגבלת כדי להקל על הלחצים של משבר יוקר המחיה. מה שאנו מגלים כעת מהסטטיסטיקה העדכנית ביותר של ממשלת סקוטלנד הוא שבשנה האחרונה בלבד, שכר הדירה הממוצע עלה בכל הנכסים בגודלם, החל מעלייה נמוכה ביותר של 11.7 אחוז לדירות חדר שינה אחד ועד לנתון הגבוה ביותר של 14.3 אחוז לדירות שני חדרי שינה. כל סוג של נכס (מחדר שינה אחד עד ארבעה חדרי שינה ועד חדר בנכס) חווה עלייה דו ספרתית בשכר הדירה מאז שהוכנס חוק יוקר המחיה באוקטובר 2022, וחצה את העלייה השנתית הממוצעת בשכר הדירה ב-12 השנים הקודמות בפקטור של לפחות שלוש.\n",
+        "sent2": "לפיכך, הייתה לנו את ההקדמה של חוק יוקר המחיה (הגנת הדייר) (סקוטלנד) 2022 לפני כמעט 18 חודשים, אשר ביקש להגביל את שכר הדירה לתקופה מוגבלת כדי להקל על הלחצים של משבר יוקר המחיה. מה שאנו מוצאים כעת מהסטטיסטיקה העדכנית ביותר של ממשלת סקוטלנד הוא שבשנה האחרונה בלבד, שכר הדירה הממוצע עלה בכל גדלי הנכסים, החל מהעלייה הנמוכה ביותר של 11.7 אחוזים עבור חדר שינה אחד ועד לנתון הגבוה ביותר של 14.3 אחוזים עבור בתים עם שני חדרי שינה. לכל סוג של נכס (מאחד עד ארבעה חדרי שינה וחדר בנכס) הייתה עלייה דו ספרתית בשכר הדירה מאז שהוכנס חוק יוקר המחיה באוקטובר 2022, אשר חרגה מהעליות השנתיות הממוצעות בשכר הדירה במהלך 12 השנים הקודמות בפקטור של לפחות שלוש.\n",
+        "analysis": "Okay, I'm ready to start the pre-drafting research. Let's analyze the provided text for idiomatic expressions that might pose a challenge when translating into Hebrew.\n\nHere's what I've identified:\n\n*   **\"Cost of Living\"**: While seemingly straightforward, \"cost of living\" is a concept that is often expressed differently in different languages. We need to consider the most natural and accurate way to convey this concept in Hebrew, considering the context of rent control.\n\n*   **\"ease the pressures\"**: This is a common way to describe alleviating a burden. We need to find an equivalent expression in Hebrew that captures the same sense of reduction or relief.\n\n*   **\"ranging from...to...\"**: This structure indicating a spectrum of values is common in English. We should determine the idiomatic way to express ranges effectively in Hebrew.\n\n*   **\"double digit increase\"**: This is a specific numerical phrase indicating percentage growth between 10% and 99%. We need to ensure the Hebrew translation clearly expresses this magnitude of increase.\n\n*   **\"by a factor of at least three\"**: We want to make sure the Hebrew translation reflects the magnitude of this increase accurately.\n\nNow, I will research the Hebrew equivalents for these expressions to formulate a translation plan. How would you like me to proceed? Should I provide potential Hebrew translations for these expressions now, or move on to the next stage?\n"
+    },
+    {
+        "src": "Welcome to General Aviation 😜",
+        "tgt": "ברוכים הבאים ל-General Aviation 😜",
+        "score1": 0.3861,
+        "score2": 0.3896,
+        "sent1": "Here's my draft translation, based on the pre-drafting analysis and aiming for accuracy and directness:\n\n**ברוכים הבאים לתעופה כללית 😜**\n\nExplanation of Choices:\n\n*   **ברוכים הבאים (Bruchim Habaim):** This is the standard and most common translation of \"Welcome\" in Hebrew. It is a formal and respectful greeting, suitable for a general audience.\n*   **לתעופה כללית (Le'te'ufa Klalit):** This is the direct translation of \"to General Aviation.\" It is accurate and understandable.\n*   **😜:** I have retained the emoji as is. Emojis are generally well-understood across cultures, and this one is likely to convey the intended playful tone. However, this could be re-evaluated in the revision stage based on feedback.\n",
+        "sent2": "ברוכים הבאים לתעופה כללית 😜\n",
+        "analysis": "Okay, I understand. The context is \"Welcome to General Aviation 😜\" and I need to do pre-drafting research specifically focusing on potential idiomatic expressions that might not translate directly into Hebrew. I need to deliver a translation plan focusing on the identified expressions. Let's begin.\n\nHere's my research focusing on idiomatic expressions:\n\n*   **\"Welcome to General Aviation\"**: This phrase itself isn't necessarily idiomatic, but the overall tone and typical usage within the aviation community need consideration. The question is how a similar level of enthusiasm and welcoming is conveyed in Hebrew within the context of aviation.\n\n*   **\"😜\" (Winking Face with Tongue)**: This emoji is definitely an element to consider. While emojis are generally universal, their connotations can vary slightly between cultures. In this context, it most likely suggests a playful or slightly cheeky welcome. We need to find an equivalent way to convey this tone in Hebrew, which might involve a different emoji, a specific phrasing, or even omitting it if it feels out of place.\n\n**Translation Plan:**\n\nMy translation plan addresses how to handle possible translation challenges, based on the pre-drafting research:\n\n1.  **\"Welcome to General Aviation\"**:\n    *   **Option 1 (Direct Translation with Adjustment):** Explore the most direct translation of \"Welcome to General Aviation\" in Hebrew and evaluate if it captures the appropriate welcoming tone.\n    *   **Option 2 (Contextual Adaptation):** If a direct translation feels stiff or unnatural, consider rephrasing the welcome to sound more natural and inviting in the specific context of Israeli General Aviation. If there is a particular greeting already implemented, use that as inspiration.\n\n2.  **\"😜\" (Winking Face with Tongue)**:\n    *   **Option 1 (Retain):** Use the same emoji if it is well-understood and carries the same playful connotation in the Israeli context.\n    *   **Option 2 (Replace):** Research if there is a more appropriate emoji that conveys a similar sense of playfulness in Hebrew-speaking online communities.\n    *   **Option 3 (Omit):** If the emoji doesn't quite fit the tone or feels redundant after adapting the \"Welcome\" phrase, consider omitting it altogether.\n\nThe next step would be to move onto the drafting stage where I explore and compare different translations according to my translation plan.\n"
+    },
+    {
+        "src": "While you can make some comparisons of aircraft models based on the available data, the FAA advises against trying to compare airlines based on their accident records. According to a report cited by the administration, \"there currently is no evidence in accident data that would support the ranking of individual airlines based on their safety records.\"",
+        "tgt": "ניתן אמנם להשוות בין דגמי מטוסים על סמך נתונים קיימים, אך ב-FAA ממליצים שלא להשוות בין חברות תעופה על סמך נתוני התאונות שלהן. לפי דוח שמזכירים ברשות, \"אין כיום נתוני תאונות שמאפשרים לדרג חברות תעופה לפי הבטיחות שלהן.",
+        "score1": 0.8956,
+        "score2": 0.8978,
+        "sent1": "אמנם ניתן לערוך כמה השוואות של דגמי מטוסים בהתבסס על הנתונים הזמינים, אך מנהל התעופה הפדרלי (FAA) ממליץ שלא לנסות להשוות חברות תעופה בהתבסס על רישומי תאונות. על פי דו\"ח שצוטט על ידי המנהל, \"אין כיום ראיות בנתוני תאונות שיכולות לתמוך בדירוג של חברות תעופה בודדות בהתבסס על רישומי הבטיחות שלהן.\"\n",
+        "sent2": "אמנם ניתן לערוך השוואות מסוימות בין דגמי מטוסים על סמך הנתונים הזמינים, אך FAA ממליץ להימנע מניסיון להשוות בין חברות תעופה על סמך רישומי תאונות. על פי דו\"ח שמצוטט על ידי המנהל, \"אין כיום ראיות בנתוני תאונות שתומכות בדירוג של חברות תעופה בודדות על סמך רישומי הבטיחות שלהן.\"\n",
+        "analysis": "Okay, I understand. The context is about comparing aircraft models versus airlines based on accident records, with the FAA advising against the latter. The focus is on identifying potential idiomatic expressions in the English text that will require careful consideration and can't be translated literally into Hebrew.\n\nLet's analyze the text for idiomatic expressions:\n\n*   **\"advises against\"**: This is a common phrase that translates relatively directly, but it's worth noting. The nuances of \"advice\" and the strength of the recommendation (\"against\") will need to be considered to find the best Hebrew equivalent.\n*   **\"based on\"**: This phrase is very common and usually translates directly, but it's good to note it.\n*   **\"safety records\"**: Common, and should translate directly.\n\nOkay, I've identified the potentially problematic phrases. I'm ready for the next stage. I will remember to take into account these items when I translate the given block of text.\n"
+    },
+    {
+        "src": "anatomically accurate green M&M",
+        "tgt": "M&M ומדויק מבחינה אנטומית",
+        "score1": 0.3956,
+        "score2": 0.3935,
+        "sent1": "Okay, based on the pre-drafting analysis and the instruction to focus on accuracy and avoid adding information, here's my draft translation into Hebrew:\n\n**M&M ירוק מדויק אנטומית**\n\nThis translates literally as:\n\n*   **M&M ירוק** - Green M&M\n*   **מדויק אנטומית** - Anatomically accurate (masculine singular form - adaptable and standard)\n\n**Explanation and Justification:**\n\n*   I've opted for a direct, literal translation. This maintains the accuracy and reflects the inherent absurdity of the phrase, which is crucial given the pre-drafting analysis of its potential humor.\n*   I've maintained the order of the words to reflect how it would be understood easily.\n*   I avoided adding any cultural connotations or trying to \"explain\" the joke. Let the inherent strangeness of the phrase stand.\n* I used the masculine singular form as it is the standard way to say it without further context.\n\nThis translation serves as a solid foundation for further refinement in the later revision stages.\n",
+        "sent2": "M&M ירוק מדויק מבחינה אנטומית\n",
+        "analysis": "Okay, I understand. The context is \"anatomically accurate green M&M\". I need to do pre-drafting research focused on potential translation challenges, specifically idiomatic expressions that might be present (or implied) due to the context and that might not translate directly into Hebrew.\n\nLet's proceed with the research. At first glance, the phrase itself doesn't contain an obvious idiom. However, the *idea* of an \"anatomically accurate\" M&M, especially a green one, hints at potential humorous or ironic interpretations that might be idiomatic.\n\nHere are some potential avenues to explore:\n\n1.  **The humor and irony of \"anatomically accurate.\"** The phrase is inherently humorous because M&Ms are candy and don't have anatomy. If the context implies a certain crudeness or bawdiness, that's something to consider.\n2.  **The implication of \"Green M&M.\"** The green M&M has a history of sexualization in popular culture (albeit usually in a suggestive rather than anatomically explicit way). While not idiomatic in the strictest sense, understanding this connotation is vital for ensuring the Hebrew translation does not amplify/omit the sexual undertones in a way that the original context does not.\n\nTherefore, the \"idiomatic expression\" category in this case will focus less on a fixed phrase and more on the *implied meaning and potential humor* deriving from the unexpected combination of terms.\n\nMy initial assessment is that the key challenge isn't finding a direct idiom, but capturing the *tone* and *implied meaning* in Hebrew, while being mindful of cultural differences in humor and associations with the green M&M.\n\nNow I'm ready for the next step. Do you want me to elaborate on any of these points, or move on to another stage?\n"
+    },
+    {
+        "src": "because it's a vector of rational numbers",
+        "tgt": "בגלל שזה וקטור של מספרים רציונליים",
+        "score1": 0.9373,
+        "score2": 0.9374,
+        "sent1": "כי זה וקטור של מספרים רציונליים\n",
+        "sent2": "כי זה וקטור של מספרים רציונליים\n",
+        "analysis": "Okay, I understand. The context is \"because it's a vector of rational numbers,\" and my task is to translate this into Hebrew within the broader goal of translating a larger document. My initial step is to perform pre-drafting research, specifically focusing on potential idiomatic expressions within this context that might not translate directly.\n\nI'm ready to proceed. Let me know if you have any further instructions or information.\n"
+    },
+    {
+        "src": "going to plant some stuff today",
+        "tgt": "הולך לשתול כמה דברים היום",
+        "score1": 0.3586,
+        "score2": 0.3578,
+        "sent1": "Okay, based on the context \"going to plant some stuff today\" and aiming for a straightforward, adaptable translation that prioritizes accuracy and completeness, here's a draft translation into Hebrew:\n\nאני הולך/הולכת לשתול קצת דברים היום.\n\n(Transliteration: *Ani holekh/holekhet lishtol ktsat dvarim hayom.*)\n\nNote:\n\n*   אני הולך (*Ani holekh*) is for a male speaker, and אני הולכת (*Ani holekhet*) is for a female speaker. The translator needs to choose the appropriate form.\n*   קצת דברים (*ktsat dvarim*) translates to \"some things/stuff\". This is a general translation for \"stuff\".\n*   היום (*hayom*) translates to \"today.\"\n",
+        "sent2": "אני הולך לשתול קצת דברים היום.\n",
+        "analysis": "Okay, I understand. The context is: \"going to plant some stuff today,\" and I'm preparing to translate it into Hebrew. My first step is pre-drafting research, focusing on identifying any potential idiomatic expressions within that short sentence that might be problematic for a direct translation. I will be looking for expressions that require a different approach to accurately convey the intended meaning in Hebrew. Let me begin.\n"
+    },
+    {
+        "src": "i think a lot about how millennials were the last generation to be able to grow connections with artists without the pressure to impose a critical eye.",
+        "tgt": "נראה מוזר עכשיו איך דור המילניום היה הדור האחרון שהיה יכול לפתח קשרים עם אמנים ללא החשש מעין ביקורתית.",
+        "score1": 0.8924,
+        "score2": 0.8881,
+        "sent1": "אני חושב הרבה על איך דור המילניום היה הדור האחרון שיכול היה ליצור קשרים עם אמנים בלי הלחץ להעביר ביקורת שיפוטית.\n",
+        "sent2": "אני חושב הרבה על איך בני דור המילניום היו הדור האחרון שיכל ליצור קשרים עם אמנים בלי הלחץ להפעיל עין ביקורתית.\n",
+        "analysis": "Okay, I understand. I'm ready to begin the pre-drafting research, focusing on the identification of idiomatic expressions in the English text that might pose translation challenges when converting to Hebrew.\n\nHere's what I've identified:\n\n*   **\"Grow connections with artists\"**: While not a strict idiom, the phrasing \"grow connections\" is more metaphorical than literal. A direct translation might sound awkward in Hebrew. We need to consider how Hebrew speakers typically express the idea of forming relationships or building bonds with artists. We could consider options that emphasize *creating relationships*, *developing a connection*, or *becoming close to* artists.\n\n*   **\"Impose a critical eye\"**: This is a potentially tricky one. It's not a super-common idiom, but it's figurative. The meaning is \"to judge critically\" or \"to view with a judgmental perspective.\" We need to find a Hebrew equivalent that captures the sense of placing or forcing a critical judgment onto something. We need to look into Hebrew phrases that relate to *judging harshly, being overly critical, or taking a critical stance*.\n\nI am now ready to proceed to the next stage, but await further instructions.\n"
+    },
+    {
+        "src": "like back in the 00s you had bionicles, which were essentially adventurers/heroes with elemental powers and actual distinct personalities and hobbies and stuff, but like before and since then its just been stuff like Warhammer, Gundam, Battletech, where everythings geared to being a weapon, showcased to gratuitous effect in accompanying media",
+        "tgt": "כמו שבשנות ה-2000 היו דמויות ביוניקל, שבעצם היו סוג של גיבורים עם כוחות על, עם אישיות ייחודית ותחביבים וכאלה. אבל לפני ואחרי זה היו רק דברים כמו Warhammer,‏ Gundam ו-Battletech, שם הכל היה קשור לנשקים ומוצג בצורה מוגזמת.",
+        "score1": 0.7496,
+        "score2": 0.7442,
+        "sent1": "טוב, אז כזה, בשנות האלפיים היו ביוניקלס, שהיו בעצם הרפתקנים/גיבורים עם כוחות יסוד ואישיויות ממש מובחנות ותחביבים וכל מיני דברים, אבל כזה, לפני ומאז זה סתם דברים כמו וורהאמר, גאנדם, באטל-טק, שהכל מכוון להיות כלי נשק, ומוצג בצורה מוגזמת במדיה הנלווית.\n",
+        "sent2": "כמו בשנות ה-2000 היו ביוניקל, שהיו בעצם הרפתקנים/גיבורים עם כוחות יסוד ואישיויות ותחביבים מובחנים, אבל כמו לפני ומאז, זה פשוט דברים כמו וורהאמר, גאנדם, באטל-טק, שהכל מכוון להיות כלי נשק, המוצג בצורה מוגזמת במדיה הנלווית.\n",
+        "analysis": "Okay, I understand. I will analyze the English text and identify any idiomatic expressions that might pose a challenge when translating into Hebrew. I will focus on finding alternatives or explanations that capture the original meaning in a natural and accurate way for a Hebrew-speaking audience. Let's begin!\n\nHere's what I've identified so far:\n\n*   **\"Back in the 00s\"**: This refers to the decade of the 2000s. While not strictly idiomatic, it's a colloquial way to specify a time period. We'll need to find an equivalent way to express this in Hebrew that sounds natural.\n\n*   **\"Hobbies and stuff\"**: \"Stuff\" is a vague placeholder. We need to think about what it implies in this context and find a Hebrew equivalent that covers similar ground. It suggests other personal traits, interests, or characteristics\n\n*   **\"Geared to being a weapon\"**: This isn't a particularly strong idiom, but it's important to capture the sense of *purpose* and *design* that is conveyed by \"geared to.\"\n\n*   **\"Showcased to gratuitous effect\"**: \"Gratuitous effect\" implies something is excessive or unnecessary. It will be important to convey the negative connotation that the display of weapons is over-the-top. It's a somewhat subtle idiom because \"gratuitous\" isn't always immediately obvious.\n\nI am ready for the next step.\n"
+    },
+    {
+        "src": "my home internet is also through AT&T and that's fine, thankfully, but now I'm thinking it wasn't so smart to choose the same provider for both internet & phone service",
+        "tgt": "האינטרנט שלי בבית הוא באמצעות AT&T והוא פועל, תודה לאל, אבל עכשיו נראה לי שזה לא חכם במיוחד לבחור את אותו ספק לשירותי האינטרנט והטלפון",
+        "score1": 0.9222,
+        "score2": 0.9222,
+        "sent1": "האינטרנט הביתי שלי הוא גם דרך AT&T וזה בסדר, תודה לאל, אבל עכשיו אני חושב שלא היה כל כך חכם לבחור את אותו ספק גם לשירותי אינטרנט וגם לשירותי טלפון.\n",
+        "sent2": "גם האינטרנט הביתי שלי הוא דרך AT&T וזה בסדר, תודה לאל, אבל עכשיו אני חושב שלא היה כל כך חכם לבחור באותו ספק גם לאינטרנט וגם לשירותי טלפון.\n",
+        "analysis": "Okay, I understand. The context is about someone regretting using the same provider (AT&T) for both internet and phone service. My task is to identify potential idiomatic expressions that need special attention during translation into Hebrew.\n\nHere's my research focusing on identifying idiomatic expressions within the provided context:\n\n*   **\"That's fine, thankfully\"**: This expresses relief that the internet service is working well. While not strictly an idiom, the combination of \"fine\" and \"thankfully\" conveys a specific sentiment that might require a more nuanced translation in Hebrew. A direct translation might not fully capture the sense of relief.\n*   **\"Wasn't so smart\"**: This is a common understatement implying the decision was unwise. It's a mild way of expressing regret. A direct translation might sound too literal or weak in Hebrew.\n*   **\"Both internet & phone service\"**: While not an idiom, the pairing of \"internet & phone service\" might have common collocations or preferred word orders in Hebrew for service descriptions.\n\nThis pre-drafting research identifies terms and phrases that needs to be treated carefully to ensure a fluent and natural-sounding translation into Hebrew. I am ready for the next stage.\n"
+    },
+    {
+        "src": "surely, though, you can invite people round to help you devour that beautiful work of bread-y art, no?",
+        "tgt": "בטח, יש לך אפשרות להזמין אנשים שיעזרו לך לזלול את הלחם האומנותי הנהדר הזה, לא?",
+        "score1": 0.7815,
+        "score2": 0.7896,
+        "sent1": "בטח, אבל, אתה יכול להזמין אנשים כדי שיעזרו לך לחסל את יצירת האומנות הלחמית היפה הזו, לא?\n",
+        "sent2": "בטח, בכל זאת, אתה יכול להזמין אנשים לעזור לך לזלול את יצירת האמנות הלחמית היפה הזו, לא?\n",
+        "analysis": "Okay, I understand. The text: \"surely, though, you can invite people round to help you devour that beautiful work of bread-y art, no?\" appears to be informal and possibly playful. My task is to identify potential translation challenges, specifically concerning idiomatic expressions, before attempting to translate it into Hebrew. Let's break it down:\n\nThe potential problem areas in this short sentence are:\n\n*   **\"invite people round\"**: This is a phrasal verb and might not have a direct equivalent in Hebrew. We need to find a natural and colloquial way to express the idea of inviting people over to someone's home.\n*   **\"devour that beautiful work of bread-y art\"**: This is definitely metaphorical and playful. \"Devour\" implies eating quickly and enthusiastically. \"Bread-y art\" is an amusing way to describe what is probably a loaf of bread. A direct translation might sound too literal or strange in Hebrew. We need to find a way to convey the sense of enjoying the bread immensely using Hebrew idioms or figurative language, while keeping the playful tone.\n*   **\", no?\"**: This is a tag question used for seeking confirmation or agreement. Hebrew has its own ways of forming tag questions, so we need to choose an appropriate one to match the informal tone.\n\nSo, these are the challenges I've identified.\n"
+    },
+    {
+        "src": "the AT&T status site claims there's no outages...even though the news is reporting an outage 😠",
+        "tgt": "באתר הסטטוס של AT&T טוענים שאין תקלות... למרות שאפילו בחדשות מדווחים על תקלה 😠",
+        "score1": 0.943,
+        "score2": 0.943,
+        "sent1": "אתר הסטטוס של AT&T טוען שאין תקלות...אף על פי שהחדשות מדווחות על תקלה 😠\n",
+        "sent2": "אתר הסטטוס של AT&T טוען שאין תקלות...אף על פי שהחדשות מדווחות על תקלה 😠\n",
+        "analysis": "Okay, I understand. My task is to research the English text \"the AT&T status site claims there's no outages...even though the news is reporting an outage 😠\" to identify potential translation challenges, specifically focusing on idiomatic expressions that might not have direct equivalents in Hebrew. I will then use this research to formulate a translation plan.\n\nHere's my research on idiomatic expressions in the context:\n\n*   **\"Even though\"**: While not strictly an idiom, the nuance of \"even though\" is important. Depending on the desired emphasis, there are a few options in Hebrew that convey different degrees of contrast (e.g., *Afilu she...*, *Lamrot she...*, *Beyoter mize she...*).\n\nBased on this limited amount of research, I can now move onto the next step of translation; drafting.\n"
+    },
+    {
+        "src": "these days, even when something goes viral on a massive scale, we can’t assume everyone has seen it.",
+        "tgt": "היום, גם כשמשהו הופך להיות ויראלי בהיקף נרחב, אנחנו לא יכולים להניח שכולם ראו את זה.",
+        "score1": 0.9396,
+        "score2": 0.9396,
+        "sent1": "בימים אלה, אפילו כשמשהו הופך ויראלי בקנה מידה עצום, אנחנו לא יכולים להניח שכולם ראו את זה.\n",
+        "sent2": "בימים אלה, אפילו כשמשהו הופך ויראלי בקנה מידה עצום, אנחנו לא יכולים להניח שכולם ראו את זה.\n",
+        "analysis": "Okay, I understand. My task is to identify any idiomatic expressions in the English text: \"these days, even when something goes viral on a massive scale, we can’t assume everyone has seen it,\" that will present a direct translation challenge into Hebrew.  I will then outline translation strategies to deal with them.\n\nHere's my analysis:\n\n*   **\"goes viral\"**: This is the most obvious idiomatic expression.  The literal translation of \"goes viral\" might not convey the same meaning in Hebrew, which refers to rapid and widespread dissemination of information or content. The Hebrew translation needs to capture this sense of rapid spread.\n\nTherefore, the primary focus of my pre-draft research is finding suitable Hebrew equivalents for \"goes viral.\"\n"
+    },
+    {
+        "src": "we understand that it is hard to get to these positions of wealth and power without stepping on others along the way.",
+        "tgt": "אנחנו מבינים שקשה להגיע למעמד של עושר וכוח כאלה מבלי לדרוך על אחרים לאורך הדרך.",
+        "score1": 0.9117,
+        "score2": 0.9108,
+        "sent1": "אנחנו מבינים שקשה להגיע לעמדות הכוח והעושר האלה בלי לדרוך על אחרים בדרך.\n",
+        "sent2": "אנו מבינים שקשה להגיע לעמדות העושר והכוח האלה בלי לדרוך על אחרים בדרך.\n",
+        "analysis": "Okay, I understand. The goal is to identify any idiomatic expressions in the English text \"we understand that it is hard to get to these positions of wealth and power without stepping on others along the way\" that won't translate directly into Hebrew. I will focus on identifying potential problem areas related to idiomaticity.\n"
+    }
+]
